@@ -1,0 +1,30 @@
+```json
+{
+  "title": "Machine behaviour",
+  "problem": [
+    "Các thuật toán có vai trò ngày càng lớn trong các hoạt động hàng ngày của chúng ta.",
+    "Thuật toán phức tạp và khó hiểu dẫn đến việc dự đoán tác động của chúng lên con người gặp thách thức."
+  ],
+  "dataset": [],
+  "method": [],
+  "baseline": [],
+  "metrics": [],
+  "results": "",
+  "limitations": [
+    "Thuật toán phức tạp và khó hiểu, kết quả thường không thể giải thích rõ ràng.",
+    "Dữ liệu nguồn cho các thuật toán phổ biến được giữ bí mật."
+  ],
+  "future_work": [
+    "Nghiên cứu về hành vi của máy móc và sinh học con người - máy móc.",
+    "Nghiên cứu sâu hơn về các vòng lặp phản hồi giữa ảnh hưởng của con người đối với hành vi của máy móc và ngược lại.",
+    "Cần hiểu rõ hơn về các tương tác thực tế giữa con người và máy móc, nơi mà con người ngày càng sử dụng thuật toán để đưa ra quyết định.",
+    "Cần nghiên cứu dài hạn về hệ thống hợp nhất giữa con người và máy móc.",
+    "Cần xem xét cách xã hội tương tác với sự xuất hiện của trí tuệ nhân tạo."
+  ],
+  "research_gap_signals": [
+    "Khó khăn trong việc xác định tác động của các thuật toán đối với cá nhân và xã hội do sự phổ biến và ngày càng tăng về độ phức tạp của chúng.",
+    "AI agents can shape human behaviours and societal outcomes in both intended and unintended ways."
+  ],
+  "reliability_notes": ""
+}
+```

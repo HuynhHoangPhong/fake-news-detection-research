@@ -1,0 +1,30 @@
+{
+  "title": "The future of social media in marketing",
+  "problem": [
+    "Xác định sự thành công của các loại ảnh hưởng viên truyền thống, micro-influencer hoặc thậm chí là influencer CGI.",
+    "Hiểu rõ về mối quan hệ giữa quyền riêng tư và niềm tin của người tiêu dùng, cũng như cách họ thích ứng với những lo ngại này."
+  ],
+  "dataset": [],
+  "method": [],
+  "baseline": [],
+  "metrics": [],
+  "results": "",
+  "limitations": [
+    "Định nghĩa rõ ràng về quyền riêng tư khó tìm thấy trong văn bản."
+  ],
+  "future_work": [
+    "Nghiên cứu về phản ứng của người tiêu dùng đối với các thay đổi và chính sách liên quan đến dữ liệu và quyền riêng tư.",
+    "Xác định tác động lan tỏa của sự không tin tưởng trên các nền tảng mạng xã hội.",
+    "Khám phá cách các định dạng cảm giác mới có thể thay đổi bản chất của việc tạo ra và tiêu thụ nội dung.",
+    "Nghiên cứu về sự hấp dẫn của các nhân vật ảo và điều kiện biên giới của thành công của chúng.",
+    "Nghiên cứu về các ứng dụng hỗ trợ sức khỏe tinh thần như Woebot, xem xét việc sử dụng không người lái có thể giảm bớt sự phê phán từ người dùng."
+  ],
+  "research_gap_signals": [
+    "Social media is used by billions of people around the world and has fast become one of the defining technologies of our time.",
+    "Omni-social presence: Social media activity was mostly confined to designated social media platforms but has now extended beyond these into various aspects of daily life through different platforms and devices.",
+    "Social media played a significant role in political movements and revolutions, emphasizing its importance as a tool for disseminating information and mobilizing people.",
+    "One notable technology that has already started infiltrating social media is augmented reality (AR).",
+    "Bot hoạt động trên mạng xã hội gây ra nhiều vấn đề như làm nhếch nhác cuộc thảo luận chính trị, đánh cắp thông tin cá nhân và lan truyền thông tin sai lệch."
+  ],
+  "reliability_notes": ""
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Prevalence of Health Misinformation on Social Media: Systematic Review",
+  "problem": "Cần hiểu cách thức mà thông tin sai lệch về sức khỏe lan truyền và tác động đến quyết định và hành vi sức khỏe.",
+  "dataset": [
+    {
+      "total_studies_collected": 5018,
+      "filtered_studies": 3563,
+      "full_text_reviews": 226,
+      "final_included_studies": 69
+    }
+  ],
+  "method": {
+    "search_terms": [
+      "social media",
+      "health misinformation"
+    ],
+    "inclusion_criteria": [
+      "studies targeting health misinformation on social media",
+      "systematic search for misinformation",
+      "clear discussion of impact, consequences or purpose of misinformation",
+      "methods including quantitative, qualitative and computational approaches"
+    ],
+    "time_period": {
+      "start_year": 2000,
+      "end_month": "March 2019"
+    }
+  },
+  "baseline": [
+    "not_found"
+  ],
+  "metrics": [
+    {
+      "quality_metrics": [
+        "S score (chất lượng cung cấp thông tin)",
+        "E score (độ nghiêm ngặt đánh giá)",
+        "Q score (đánh giá chung về chất lượng)"
+      ]
+    }
+  ],
+  "results": "Thông tin sai lệch y tế phổ biến nhất trên Twitter và liên quan đến sản phẩm hút thuốc và dược phẩm. Các nền tảng chia sẻ phương tiện truyền thông như YouTube cho phép người dùng chia sẻ nhiều thông tin hơn, trong khi sự động đậy tự nhiên của Twitter tạo điều kiện thảo luận giữa các cộng đồng trực tuyến có lập trường chính trị hoặc tư tưởng khác nhau.",
+  "limitations": [
+    "Định nghĩa khái niệm về thông tin sai lệch y tế rộng rãi",
+    "Các nghiên cứu chỉ bao gồm các tạp chí tiếng Anh, không bao quát tất cả nền tảng mạng xã hội",
+    "Khó khăn trong so sánh các nghiên cứu do tiếp cận lý thuyết, định nghĩa làm việc, phương pháp thu thập dữ liệu và kỹ thuật phân tích khác nhau"
+  ],
+  "future_work": [
+    "Cần hướng nghiên cứu về các nền tảng mạng xã hội để đối phó với vấn đề thông tin sai lệch y tế."
+  ],
+  "research_gap_signals": [
+    "Sự mơ hồ về định nghĩa của thông tin sai lệch y tế và đa dạng hóa phương pháp học thuật, dẫn đến khó khăn trong việc xác định giải pháp tổng thể và toàn diện.",
+    "Các nghiên cứu hiện tại bị giới hạn bởi ngôn ngữ (tiếng Anh) và không bao quát tất cả các nền tảng mạng xã hội."
+  ],
+  "reliability_notes": ""
+}
