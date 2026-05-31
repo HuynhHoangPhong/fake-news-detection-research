@@ -1,0 +1,1708 @@
+
+
+--- PAGE 1 ---
+Perspective
+https://doi.org/10.1038/s41562-020-0884-z
+1Department of Psychology & Neural Science, New York University, New York, NY, USA. 2University of Chicago Harris School of Public Policy, Chicago, 
+IL, USA. 3Social and Cognitive Neuroscience Laboratory, Center for Health and Biological Sciences, Mackenzie Presbyterian University, São Paulo, Brazil. 
+4Department of Economics, Middlesex University London, London, UK. 5School of Psychology, University of Kent, Kent, UK. 6Department of Psychology, 
+Nicolaus Copernicus University, Toruń, Poland. 7Department of Psychology, Harvard University, Cambridge, MA, USA. 8Department of Psychology, Yale 
+University, New Haven, CT, USA. 9Department of Psychology, Stanford University, Stanford, CA, USA. 10Department of Political Science, Northwestern 
+University, Chicago, IL, USA. 11Department of Social Psychology, University of Sussex, Sussex, UK. 12Faculty of Social Sciences, Utrecht University, 
+Utrecht, The Netherlands. 13Department of Psychology and the Kellogg School of Management, Northwestern University, Chicago, IL, USA. 14Division of 
+Infectious Diseases and Global Public Health and Department of Political Science, University of California, San Diego, San Diego, CA, USA. 15Department 
+of Psychology, University of Maryland, College Park, MD, USA. 16School of Psychological and Cognitive Sciences, PKU-IDG/McGovern Institute for Brain 
+Research, Peking University, Beijing, China. 17University of Queensland, Brisbane, Australia. 18School of Psychology, University of Queensland, Brisbane, 
+Australia. 19Department of Psychology, University of Michigan, Ann Arbor, MI, USA. 20Department of Humanities and Social Sciences and Computation 
+and Neural Systems Program, California Institute of Technology, Pasadena, CA, USA. 21Department of Psychology and Health, Medicine & Society 
+Program, Lehigh University, Bethlehem, PA, USA. 22Department of Psychology, Lehigh University, Bethlehem, PA, USA. 23Hill/Levene Schools of Business, 
+University of Regina, Regina, Saskatchewan, Canada. 24School of Journalism and Communication, University of Oregon, Eugene, OR, USA. 25Department 
+of Psychology, The Ohio State University, Columbus, OH, USA. 26Sloan School and Department of Brain and Cognitive Sciences, Massachusetts Institute 
+of Technology, Boston, MA, USA. 27School of Psychology and Neuroscience, University of St. Andrews, St Andrews, UK. 28Department of Psychology 
+University of Cambridge, Cambridge, UK. 29Bennett Institute for Public Policy, University of Cambridge, Cambridge, UK. 30Department of Psychology, 
+University of British Columbia, Vancouver, British Columbia, Canada. 31Department of Psychology, University of Illinois at Chicago, Chicago, IL, USA. 
+32Department of Sociology, University of California, Berkeley, Berkeley, CA, USA. 33Harvard Law School, Harvard University, Cambridge, MA, United States. 
+34Department of Psychology, Carleton University, Ottawa, Ontario, Canada. 35Department of Politics, New York University, New York, NY, USA. 36Institute 
+for Brain and Behavior Amsterdam, Department of Experimental and Applied Psychology, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands. 
+37Department of Sociology, Cornell University, Ithaca, NY, USA. 38Department of Sociology, Stanford University, Stanford, CA, USA. ✉e-mail: jay.vanbavel@
+nyu.edu; willer@stanford.edu
+I
+n December 2019, a new coronavirus (SARS-CoV-2) emerged, 
+sparking an epidemic of acute respiratory syndrome (COVID-
+19) in humans, centred in Wuhan, China1. Within three months, 
+the virus had spread to more than 118,000 cases and caused 4,291 
+deaths in 114 countries, leading the World Health Organization 
+to declare a global pandemic. The pandemic has led to a massive 
+global public health campaign to slow the spread of the virus by 
+increasing hand washing, reducing face touching, wearing masks in 
+public and physical distancing.
+While efforts to develop pharmaceutical interventions for 
+COVID-19 are under way, the social and behavioural sciences 
+can provide valuable insights for managing the pandemic and its 
+Using social and behavioural science to support 
+COVID-19 pandemic response
+Jay J. Van Bavel   1 ✉, Katherine Baicker   2, Paulo S. Boggio   3, Valerio Capraro4,  
+Aleksandra Cichocka   5,6, Mina Cikara   7, Molly J. Crockett   8, Alia J. Crum9, Karen M. Douglas   5,  
+James N. Druckman10, John Drury   11, Oeindrila Dube2, Naomi Ellemers12, Eli J. Finkel13,  
+James H. Fowler   14, Michele Gelfand   15, Shihui Han   16, S. Alexander Haslam   17, Jolanda Jetten   18, 
+Shinobu Kitayama   19, Dean Mobbs   20, Lucy E. Napper21, Dominic J. Packer   22, Gordon Pennycook   23, 
+Ellen Peters   24, Richard E. Petty   25, David G. Rand   26, Stephen D. Reicher27, Simone Schnall   28,29,  
+Azim Shariff   30, Linda J. Skitka31, Sandra Susan Smith32, Cass R. Sunstein   33, Nassim Tabri   34,  
+Joshua A. Tucker   35, Sander van der Linden   28, Paul van Lange36, Kim A. Weeden   37, 
+Michael J. A. Wohl   34, Jamil Zaki9, Sean R. Zion   9 and Robb Willer   38 ✉
+The COVID-19 pandemic represents a massive global health crisis. Because the crisis requires large-scale behaviour change 
+and places significant psychological burdens on individuals, insights from the social and behavioural sciences can be used to 
+help align human behaviour with the recommendations of epidemiologists and public health experts. Here we discuss evi-
+dence from a selection of research topics relevant to pandemics, including work on navigating threats, social and cultural influ-
+ences on behaviour, science communication, moral decision-making, leadership, and stress and coping. In each section, we note 
+the nature and quality of prior research, including uncertainty and unsettled issues. We identify several insights for effective 
+response to the COVID-19 pandemic and highlight important gaps researchers should move quickly to fill in the coming weeks 
+and months.
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+460
+
+
+--- PAGE 2 ---
+Perspective
+NaTure Human BehaVIOur
+impacts. We discuss topics that are broadly relevant to numerous 
+stages of the current pandemic to help policy-makers, leaders and 
+the public better understand how to manage threats, navigate differ-
+ent social and cultural contexts, improve science communication, 
+align individual and collective interests, employ effective leadership 
+and provide social and emotional support (see Fig. 1 for summary). 
+For each area, we highlight relevant insights, discuss implications 
+for policy makers, leaders and the public (Box 1) and note areas for 
+future research.
+Due to space constraints, this paper provides a brief summary 
+of each topic. Research topics discussed here were identified by the 
+corresponding authors as potentially relevant to pandemic response 
+and thus are not exhaustive (for a review of research on specific 
+actions, such as handwashing, face-touching and self-isolation, 
+see ref. 2). Furthermore, research on these topics is ongoing and, 
+in many cases, far from settled. We have highlighted relevant find-
+ings in each area as well as critical gaps in the literature. Insights 
+and implications for policy should be interpreted with caution 
+because there is very little published social science research on the 
+current pandemic. Thus, our discussion often draws from different 
+circumstances than the current pandemic (for example, laboratory 
+experiments examining hypothetical scenarios), and the quality of 
+the evidence cited varies substantially (for example, correlational 
+studies vs field experiments; single studies vs systematic reviews of 
+substantial evidence). In the sections that follow, we try to describe 
+the quality of evidence to facilitate careful, critical engagement by 
+readers. We call for the scientific community to mobilize rapidly to 
+produce research to directly inform policy and individual and col-
+lective behaviour in response to the pandemic.
+Threat perception. Historically, infectious diseases have been 
+responsible for the greatest human death tolls. For example, the 
+bubonic plague killed approximately 25% of the European popula-
+tion3. In this section, we discuss how people are likely to perceive 
+and respond to threats and risk during a pandemic and downstream 
+consequences for decision-making and intergroup relations.
+Threat. One of the central emotional responses during a pandemic 
+is fear. Humans, like other animals, possess a set of defensive sys-
+tems for combating ecological threats4,5. Negative emotions result-
+ing from threat can be contagious6, and fear can make threats 
+appear more imminent7. A meta-analysis found that targeting fears 
+can be useful in some situations, but not others: appealing to fear 
+leads people to change their behaviour if they feel capable of dealing 
+with the threat, but leads to defensive reactions when they feel help-
+less to act8. The results suggest that strong fear appeals produce the 
+greatest behaviour change only when people feel a sense of efficacy, 
+whereas strong fear appeals with low-efficacy messages produce the 
+greatest levels of defensive responses.
+Another challenge is that people often exhibit an ‘optimism bias’: 
+the belief that bad things are less likely to befall oneself than others. 
+While optimism bias may be useful for avoiding negative emotions9, 
+it can lead people to underestimate their likelihood of contract-
+ing a disease10 and to therefore ignore public health warnings11. 
+Communication strategies must strike a balance between break-
+ing through optimism bias without inducing excessive feelings of 
+anxiety and dread.
+Emotion and risk perception. Sound health decisions depend on 
+accurate perceptions of the costs and benefits of certain choices for 
+oneself and for society12,13. Emotions often drive risk perceptions, 
+sometimes more so than factual information14,15. An emotional 
+response to a risky situation can influence thinking in two stages16. 
+First, the emotion’s quality (for example, positive vs negative) focuses 
+people on congruent information (for example, negative informa-
+tion when feeling negative). That information, rather than the feeling 
+itself, is then used to guide judgment at the second stage. For exam-
+ple, smokers exposed to more negative emotional health warnings 
+experienced more negative emotion toward warnings and smoking, 
+spent more time examining warnings and recalled more risks, with 
+subsequent effects on risk perception and quitting intentions17,18. As 
+negative emotions increase, people may rely on negative information 
+about COVID-19 more than other information to make decisions.
+Fake
+news
+Persuasion
+Science communication
+Individual and collective interests
+Leadership
+Stress and coping
+Social Context
+Social
+inequality 
+Political
+polarization 
+Culture
+Social
+norms 
+• Trust and
+  compliance
+• Identity
+  leadership
+• Ingroup
+  elevation   
+Threat perception
+Social isolation and
+connection 
+Intimate 
+relationships
+Healthy 
+mind-sets
+• Threat
+• Emotion and risk
+  perception
+• Prejudice and
+  discrimination
+• Disaster and
+  panic 
+Cooperation
+Zero-sum
+thinking 
+Moral
+decision-
+making 
+Conspiracy
+theories 
+Fig. 1 | Infographic depicting a selection of topics from the social and behavioural sciences relevant during a pandemic. Topics covered here include threat 
+perception, social context, science communication, individual and collective interests, leadership, and stress and coping.
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+461
+
+
+--- PAGE 3 ---
+Perspective
+NaTure Human BehaVIOur
+In the case of strong emotional reactions, people may also ignore 
+important numeric information such as probabilities19 and a prob-
+lem’s scope20. Negative framing captures attention, especially for 
+people who are less mathematically skilled21. The media usually 
+report on COVID-19 negatively—for example, by reporting the 
+number of people infected and those who die—as opposed to those 
+who recover or experience only mild symptoms. This may increase 
+negative emotion and sensitize people to otherwise neglected risks 
+for themselves or others. Research is needed to determine whether 
+a more positive frame could educate the public and relieve negative 
+emotions while increasing public health behaviours.
+Prejudice and discrimination. The experience of fear and threat 
+has ramifications not only for how people think about them-
+selves, but also how they feel about and react to others—in par-
+ticular, out-groups. For instance, being threatened with disease is 
+often associated with higher levels of ethnocentrism22; greater fear 
+and perceived threat are associated with greater intolerance and 
+punitive attitudes toward out-groups23–25. Highlighting group 
+boundaries can undermine empathy with those who are socially 
+distant26,27 and increase dehumanization28 or punishment29.
+The bubonic plague, for example, unleashed massive violence in 
+Europe, including the murder of Catalans in Sicily, clerics and beg-
+gars in some locations, and pogroms against Jews, with over a thou-
+sand communities eradicated30. Although not every pandemic leads 
+to violence, disease threat can nonetheless give rise to discrimination 
+and violence against stigmatized or scapegoated groups. Already, 
+there have been reports of physical attacks on ethnic Asian people 
+in predominantly White countries, and some government officials 
+mis-characterize SARS-CoV-2 as the ‘Wuhan’ or ‘Chinese virus’31.
+Conversely, a global pandemic may also create opportunities to 
+reduce religious and ethnic prejudice. Coordinated efforts across 
+individuals, communities and governments to fight the spread of 
+disease can send strong signals of cooperation and shared values, 
+which could facilitate reorganization of previously considered 
+out-groups and in-groups into a single community with a com-
+mon destiny. This ‘superordinate categorization’ is most effec-
+tive when everyone is of equal status32. These cooperative acts are 
+already unfolding in the current pandemic. For example, 21 coun-
+tries donated medical supplies to China in February, and China has 
+reciprocated widely. Highlighting events like these could improve 
+out-group attitudes33 and foster further international cooperation.
+Disaster and ‘panic’. There is a common belief in popular culture 
+that, when in peril, people panic, especially when in crowds. That is, 
+they act blindly and excessively out of self-preservation, potentially 
+endangering the survival of all34. This idea has been used to explain 
+responses to the current COVID-19 outbreak, most commonly in 
+relation to the notion of ‘panic buying’. However, close inspection of 
+what happens in disasters reveals a different picture. Certainly, some 
+people do act selfishly and some, especially those who are particu-
+larly vulnerable, may experience more distress. But cooperation and 
+orderly, norm-governed behaviour are common across a range of 
+emergencies and disasters; and there are many instances when people 
+display remarkable altruism35. There is already evidence that mutual 
+aid groups among the public have become widespread in response to 
+Covid-1936. Indeed, in fires37 and other natural hazards38, people are 
+less likely to die from over-reaction than from under-reaction, that is, 
+not responding to signs of danger until it is too late.
+In fact, the concept of ‘panic’ has largely been abandoned by 
+researchers because it neither describes nor explains what people 
+usually do in disaster39. Instead, the focus has shifted to the factors 
+that explain why people cooperate rather than compete in response 
+to a crisis35. One of these factors is an emerging sense of shared iden-
+tity and concern for others, which arises from the shared experience 
+of being in a disaster40. This feeling can be harnessed by addressing 
+the public in collective terms and by urging ‘us’ to act for the com-
+mon good41.
+Conversely, the sense of shared identity can be undermined by 
+representing others as competitors. This can happen with images of 
+empty shelves and stories of panic buying, which suggest that oth-
+ers are only looking out for themselves, thus prompting a desire for 
+doing the same. Stocking up on supplies is adaptive in preparation 
+for potential self-isolation42. However, use of the notion of panic 
+can be actively harmful. News stories that employ the language of 
+panic often create the very phenomena that they purport to con-
+demn. They can foster the very individualism and competitiveness 
+that turns sensible preparations into dysfunctional stockpiling and 
+undermine the sense of collective purpose which facilitates people 
+supporting one another during an emergency.
+Social context
+Slowing viral transmission during pandemics requires significant 
+shifts in behaviour. Various aspects of social and cultural con-
+texts influence the extent and speed of behaviour change. In this 
+Box 1 | Social scientific insights for COVID-19 pandemic 
+response
+We highlight some insights for public health experts, policy 
+makers, and community leaders.
+• 
+A shared sense of identity or purpose can be encouraged by 
+addressing the public in collective terms and by urging ‘us’ to 
+act for the common good.
+• 
+Identifying sources (for example, religious or community 
+leaders) that are credible to different audiences to share pub-
+lic health messages can be effective.
+• 
+Leaders and the media might try to promote cooperative 
+behaviour by emphasizing that cooperating is the right thing 
+to do and that other people are already cooperating.
+• 
+Norms of prosocial behaviour are more effective when cou-
+pled with the expectation of social approval and modelled by 
+in-group members who are central in social networks.
+• 
+Leaders and members of the media should highlight biparti-
+san support for COVID-related measures, when they exist, as 
+such endorsements in other contexts have reduced polariza-
+tion and led to less-biased reasoning.
+• 
+There is a need for more targeted public health informa-
+tion within marginalized communities and for partnerships 
+between public health authorities and trusted organizations 
+that are internal to these communities.
+• 
+Messages that (i) emphasize benefits to the recipient, (ii) focus 
+on protecting others, (iii) align with the recipient’s moral val-
+ues, (iv) appeal to social consensus or scientific norms and/
+or (v) highlight the prospect of social group approval tend to 
+be persuasive.
+• 
+Given the importance of slowing infections, it may be helpful 
+to make people aware that they benefit from others’ access to 
+preventative measures.
+• 
+Preparing people for misinformation and ensuring they have 
+accurate information and counterarguments against false 
+information before they encounter conspiracy theories, fake 
+news, or other forms of misinformation, can help inoculate 
+them against false information.
+• 
+Use of the term ‘social distancing’ might imply that one 
+needs to cut off meaningful interactions. A preferable term 
+is ‘physical distancing’, because it allows for the fact that 
+social connection is possible even when people are physically 
+separated.
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+462
+
+
+--- PAGE 4 ---
+Perspective
+NaTure Human BehaVIOur
+section, we describe how aspects of the social context, such as 
+social norms, social inequality, culture and polarization, may help 
+decision-makers identify risk factors and effectively intervene.
+Social norms. People’s behaviour is influenced by social norms: 
+what they perceive that others are doing or what they think that 
+others approve or disapprove of43. A large literature has distin-
+guished different motives for conformity to norms, including the 
+desire to learn from other people and to gain affiliation or social 
+approval43,44. Although people are influenced by norms, their per-
+ceptions are often inaccurate45. For example, people can underesti-
+mate health-promoting behaviours (for example, hand washing46) 
+and overestimate unhealthy behaviors47.
+Changing behaviours by correcting such misperceptions can 
+be achieved by public messages reinforcing positive (for example, 
+health-promoting) norms. Providing accurate information about 
+what most people are doing is likely to be helpful if what most 
+people are doing is desirable (health-promoting). But if what most 
+people are doing is not desirable, providing purely descriptive nor-
+mative information can backfire by reducing positive behaviours 
+among people who already engage in them, unless it is accompa-
+nied by information signalling that most people approve of these 
+actions (prescriptive as opposed to descriptive norms)48,49. Perceived 
+norms are also most influential when specific to others with whom 
+common identities are shared50, including for the spread of health 
+behaviors51. Therefore, messages that provide in-group models for 
+norms (for example, members of your community) may therefore 
+be most effective.
+Social networks can amplify the spread of behaviours that are 
+both harmful and beneficial during an epidemic, and these effects 
+may spread through the network to friends, friends’ friends and 
+even friends’ friends’ friends52. The virus itself spreads from per-
+son to person, and since people centrally located in networks come 
+into contact with more people, they are often among the first to be 
+infected53. But these very same central people may be instrumental 
+in slowing the disease because they can spread positive interven-
+tions like hand washing and physical distancing by demonstrating 
+them to a wide range of people54. Some research suggests that a 
+larger proportion of interventions can come not from direct effects 
+on people who receive the intervention, but from indirect effects 
+on their social contacts who copied the behavior55. We may there-
+fore leverage the impact of any behaviour change effort by targeting 
+well-connected individuals and making their behaviour change vis-
+ible and salient to others.
+Another way to leverage the impact of norms falls under the 
+general category of ‘nudges’56,57, which influence behaviour through 
+modification of choice architecture (i.e., the contexts in which 
+people make decisions). Because people are highly reactive to the 
+choices made by others, especially trusted others, an understanding 
+of social norms that are seen as new or emerging can have a posi-
+tive impact on behavior58. For instance, a message with compelling 
+social norms might say, ‘the overwhelming majority of people in 
+your community believe that everyone should stay home’. Nudges 
+and normative information can be an alternative to more coercive 
+means of behaviour change or used to complement regulatory, 
+legal and other imposed policies when widespread changes must 
+occur rapidly.
+Social inequality. Inequalities in access to resources affect not 
+only who is at greatest risk of infection, developing symptoms or 
+succumbing to the disease, but also who is able to adopt recom-
+mendations to slow the spread of the disease. The homeless can-
+not shelter in place59, families in housing without running water 
+cannot wash their hands frequently60, people who are detained by 
+a state (for example, in jails, prisons, immigrant detention centres 
+or refugee camps) may lack space to implement physical distancing, 
+people without health insurance may delay or avoid seeking test-
+ing or treatment, people who rely on public transportation cannot 
+always avoid large crowds and low-wage workers are often in occu-
+pations (for example, service, retail, cleaning, agricultural labour) 
+where remote work is impossible and employers do not offer paid 
+sick leave61. Economic disadvantage is also associated with the 
+pre-existing conditions associated with higher morbidity rates once 
+infected, such as compromised immune systems, diabetes, heart 
+disease and chronic lung diseases like asthma and chronic obstruc-
+tive pulmonary disease62. We expect that, as in natural hazards, the 
+economically disadvantaged will be most likely to be exposed to the 
+hazard, most susceptible to harm from it and most likely to experi-
+ence negative outcomes from it63,64.
+Issues of economic disadvantage intersect with issues of race 
+and ethnicity. Members of minority communities (such as blacks, 
+Latinos and American Indians/Alaska Natives in the US) are dis-
+proportionately found among the homeless59, the detained, the 
+workers in high public contact but low-benefit occupations65, 
+and those with prior health conditions that make them more 
+vulnerable66,67. Because social networks tend to be racially differen-
+tiated68, members of minority communities who contract the dis-
+ease may become vectors of transmission to others in their racial 
+and ethnic communities69.
+Economic position and racial inequality are also associated with 
+levels of trust in social institutions, including the healthcare system. 
+Racial and ethnic minority communities, in particular, have both 
+historical and contemporary experiences of discrimination, lead-
+ing to distrust70–74. Members of these communities may be more 
+likely to be wary about the public health information they receive, 
+less willing to adopt recommended safety measures and potentially 
+more susceptible to ‘fake news’. This suggests the need for more tar-
+geted public health information and for partnerships between pub-
+lic health authorities and trusted organizations that are internal to 
+these communities.
+Culture. A sense of the self as independent versus interdependent 
+with others is a dimension of cultural variation75. Western European 
+and North American cultures that endorse individualism76 are con-
+sidered independent, whereas most other cultures share a stronger 
+commitment to collectives such as country, tribe and family and are 
+considered interdependent77,78. While medical policies are different 
+across societies, some differences in the response to the pandemic 
+may be better described as cultural, and many of those have a link-
+age to the dimension of independence vs interdependence. First, 
+the priority given to obligations and duties in Asian societies may 
+motivate individuals to remain committed to social norms while 
+suppressing personal desires79. Second, Asians may more readily 
+recognize unobservable situational influences on viral infection, 
+like herd immunity80. Third, social norms and conventions in North 
+America and much of Western Europe tend to positively value the 
+expressivity of the self (for example, kissing, hugging, direct argu-
+mentation), relative to Asia81. This is another reason why interper-
+sonal transmission of the virus could be more likely in independent 
+cultures than in interdependent cultures.
+Another, related, dimension of cultural variance is a society’s 
+‘tightness’ vs ‘looseness’. Research has found that tight cultures, such 
+as those of Singapore, Japan and China, have strict social norms and 
+punishments for deviance, while loose cultures, such as the US, Italy 
+and Brazil, have weaker social norms and are more permissive82,83. 
+Tight nations often have extensive historical and ecological threats, 
+including greater historical prevalence of natural hazards, invasions, 
+population density and pathogen outbreaks82,84. From an evolution-
+ary perspective, when groups experience collective threats, strict 
+rules may help them to coordinate to survive82,85. Therefore, the 
+spread of COVID-19 infections may tighten communities. Cultures 
+accustomed to prioritizing freedom over security may also have 
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+463
+
+
+--- PAGE 5 ---
+Perspective
+NaTure Human BehaVIOur
+more difficulty coordinating in the face of a pandemic. It may also 
+be relevant that communities negotiate social norms so that there 
+is a balance between freedom and constraint, or ‘tight–loose ambi-
+dexterity’86. Tight rules regarding social distancing are critical, yet 
+looseness within these constraints may also help to spawn the devel-
+opment of creative technical solutions that are needed to contain 
+the pandemic, as well as creating novel tools to help people feel con-
+nected. The cumulative evidence here suggests that very different 
+strategies might be called for in varying cultural contexts in the fight 
+against COVID-19.
+Political polarization. One cultural barrier for coordinated action 
+within countries is political polarization. Polarization among 
+citizens comes in two varieties. ‘Attitudinal polarization’ con-
+cerns partisans taking extreme opposing issue positions, whereas 
+‘affective polarization’ refers to partisans disliking and distrust-
+ing those from the opposing party(ies)87,88. Affective polarization 
+has political consequences, such as decreasing trust89, privileging 
+partisan labels over policy information90 and believing false 
+information91, that can undermine social and economic relation-
+ships88 and impair public health.
+One issue with polarization during a pandemic is that it might 
+lead different segments of the population to arrive at different con-
+clusions about the threat in the situation and appropriate actions. 
+Partisans may receive different news because individuals can 
+self-select polarized news sources or partisan ‘echo chambers’92,93 or 
+can communicate in ways that are associated with less cross-partisan 
+information sharing94. But in-person political interactions can pro-
+vide more opportunity for cross-partisan communication95 (that 
+produce a shared understanding). The decrease in in-person con-
+tact due to COVID-19 may reduce cross-partisan interactions and 
+information sharing.
+However, there are actionable steps that could reduce polariza-
+tion. First, the pandemic not only highlights a common identity 
+with individuals all facing the same risk, but could also foster a 
+sense of shared fate. By highlighting an overarching identity, poli-
+ticians, the media and opinion leaders could help reduce political 
+division around the issue. Second, a growing body of work shows 
+that misperceptions of the other side underlie polarization96,97. 
+Therefore, it is likely important to combat misinformation that 
+could generate partisan motivated reasoning and inaccurate beliefs 
+(see “Fake news and misinformation” below). Finally, leaders can 
+highlight bipartisan support for COVID-19-related measures, when 
+they exist, as such endorsements in other contexts have reduced 
+polarization and led to less biased reasoning98.
+Science communication
+The information environment around a pandemic underscores the 
+importance of effective science communication. The COVID-19 
+pandemic has already seen a rise in conspiracy theories, fake news 
+and misinformation99. In this context, it is hard for the public to 
+distinguish scientific evidence and facts from less reliable sources 
+of information. In this section, we discuss the challenges associated 
+with different forms of misinformation during a pandemic, as well 
+as strategies for engaging in effective science communication and 
+persuasion around public health.
+Conspiracy theories. Conspiracy theories emerged shortly after 
+the first news of COVID-19 and have continued to persist99. Some 
+concerned the origins of the SARS-CoV-2 virus, for example, that it 
+was a bioweapon created by the Chinese to wage war on the US or 
+vice versa100. Others focused on prevention and cure, for instance, 
+that conventional medical treatment should not be trusted and that 
+people should use alternative remedies to ward off the virus101. It is 
+not surprising that conspiracy theories have flourished at this time. 
+Research suggests that people feel the need to explain large events 
+with proportionally large causes102 and are more likely to believe in 
+conspiracy theories about events with serious consequences103 and 
+in times of crisis104. This is likely because people are more drawn 
+to conspiracy theories when important psychological needs are 
+frustrated105. Thus, conspiracy theories may gain more traction as 
+COVID-19 spreads and more people isolate themselves106.
+These conspiracy theories can have harmful consequences. For 
+example, belief in conspiracy theories has been linked to vaccine 
+hesitancy107, climate denial108, extremist political views109 and preju-
+dice110,111. COVID-19 conspiracy theories may be similarly prob-
+lematic. For instance, people who believe that alternative remedies 
+can help them fight off the virus may be less likely to follow health 
+officials’ advice and instead opt for less effective (at best) or lethal 
+(at worst) alternatives. Conspiracy beliefs may also fuel hostility 
+toward groups seen as responsible for the virus112. Some evidence 
+suggests that giving people factual information before exposure to 
+conspiracy theories can reduce conspiracy theory beliefs113, and this 
+strategy might work in efforts to combat conspiracy theories rel-
+evant to the current pandemic (see "Fake news and misinformation" 
+below for similar findings). However, because some people tend to 
+consume information within like-minded ‘echo chambers’, combat-
+ing conspiracy theories remains a challenge114.
+Fake news and misinformation. Fake news and misinforma-
+tion about COVID-19 have proliferated widely on social media, 
+with potentially dangerous consequences115. Emerging research is 
+using social science to understand and counter the spread of fake 
+news116–118. One approach is to debunk using fact-checking and cor-
+rection119–121. Source expertise, co-partisanship, exposing denial, 
+and corrections that provide causal explanations all tend to increase 
+the effectiveness of countering misinformation122–124. However, 
+fact-checking may not keep up with the vast amount of false infor-
+mation produced in times of crisis like a pandemic. Moreover, 
+there is mixed research regarding whether corrections may actu-
+ally increase belief in the original misinformation121,124–126 or in 
+other misleading claims that fail to get corrected127. Thus, other 
+approaches beyond debunking are needed.
+One ‘prebunking’ approach involves psychological inocula-
+tion128,129. Inoculation follows the biomedical analogy: people are 
+exposed to a severely weakened dose of a persuasive argument, 
+strong enough to trigger the immune system but not so strong as 
+to overwhelm it. A meta-analysis has found inoculation effective 
+in protecting attitudes from persuasion130. The fake news game 
+Bad News is a real-world inoculation intervention (https://www.
+getbadnews.com) used by schools and governments that finds 
+that pre-emptively exposing people to small doses of misinforma-
+tion techniques (including scenarios about COVID-19) can reduce 
+susceptibility to fake news131,132 and could be embedded directly on 
+social media platforms133.
+Another preventative approach involves subtle prompts that 
+nudge people to consider accuracy. Evidence suggests that delib-
+eration is associated with134–136 and causes137 reduced belief in false 
+news headlines that circulated on social media. Platforms could 
+nudge users to think about accuracy by, for example, periodically 
+asking users to rate the accuracy of randomly selected posts. The 
+crowdsourced accuracy ratings generated by this process may also 
+be useful for identifying misinformation, as has been found for 
+crowd ratings of source trustworthiness138,139.
+To effectively counter fake news about COVID-19 around the 
+world, governments and social media companies must rigorously 
+develop and test interventions. This includes identifying treatments 
+that effectively reduce belief in misinformation, while not under-
+mining belief in accurate information140.
+Persuasion. In the domain of science communication, scholars 
+have explored a host of messaging approaches, including providing 
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+464
+
+
+--- PAGE 6 ---
+Perspective
+NaTure Human BehaVIOur
+information in evidence-based ways that increase understanding 
+and action141. Decades of research has found that, whether recipients 
+are motivated to think carefully or not142, sources perceived as cred-
+ible are more persuasive143. The credibility of sources stems from 
+how trustworthy and expert they are perceived to be144. Enlisting 
+trusted voices has been shown to make public health messages more 
+effective in changing behaviour during epidemics. During the West 
+African Ebola crisis, for example, religious leaders across faiths in 
+Sierra Leone advocated for practices such as handwashing and safe 
+burials. The engagement of the faith-based sector was considered a 
+turning point in the epidemic response145. Therefore, finding cred-
+ible sources for different audiences who are able to share public 
+health messages might prove effective.
+Once a credible source is identified, what message should be 
+delivered? Several messaging approaches may be effective, includ-
+ing emphasizing the benefits to the recipient146, focusing on protect-
+ing others (for example, ‘wash your hands to protect your parents 
+and grandparents’147), aligning with the recipient’s moral values148, 
+appealing to social consensus or scientific norms149–151 and/or 
+highlighting social group approval152,153. Which of these messages 
+work best depends on the audience’s motivations154. Beyond find-
+ing effective messages for attitude change is the issue of inducing 
+behavioural change. This occurs when people feel confident about 
+their attitudes155. Methods to increase certainty include helping 
+people feel knowledgeable about their new attitude156 and making 
+them feel that their new attitude is the ‘moral’ one to have157. It may 
+therefore be useful to identify which messages work best on which 
+populations not only to generate policy support but also to ensure 
+individuals’ actions needed to combat the spread of the virus.
+Aligning individual and collective interests
+The behaviour of individuals living in communities is regulated 
+by moral norms and values158–162. People who do what is ‘right’ are 
+respected and publicly admired, while those who do what is ‘wrong’ 
+are devalued and socially excluded163. These mechanisms of social 
+enforcement encourage people to embrace and internalize shared 
+guidelines, making them motivated to do what is considered right 
+while avoiding behaviours that seem wrong164, and do not rely on 
+legal agreements and formal sanctions165. In this section, we con-
+sider how research on morality and cooperation can encourage pro-
+social behaviours by individuals and groups.
+Zero-sum thinking. People often default to thinking that someone 
+else’s gain—especially someone from a competing group—necessi-
+tates a loss to themselves, and vice versa166,167. Zero-sum thinking 
+fits uneasily with the non-zero-sum nature of pandemic infection, 
+where someone else’s infection is a threat to oneself and every-
+one else168. Zero-sum thinking means that while it might be psy-
+chologically compelling to hoard protective materials (sanitizer, 
+masks, even vaccines) beyond what is necessary, doing so could be 
+self-defeating. Given the importance of slowing infections, it may 
+be helpful to make people aware that others’ access to preventative 
+measures is a benefit to oneself.
+Whereas reducing infections across the population is 
+non-zero-sum, the provision of scarce health care resources to 
+the infected does have zero-sum elements. For example, when the 
+number of patients needing ventilators exceeds capacity, health 
+care providers are often forced to make life-for-life trade-offs. How 
+well the policies enacted match the local norms can help determine 
+how much support they receive. While some people are willing to 
+sacrifice the elderly to save the young169, there are cultural differ-
+ences on this preference170. Who is perceived to be making those 
+decisions may also impact the public’s and patients’ trust. In experi-
+ments, people who make utilitarian judgments about matters of life 
+and death are less trusted171. American’s trust in medical doctors 
+remains high172, and compared to public health officials, doctors 
+are less utilitarian in their ethical decision-making, opting instead 
+for deontic ‘do no harm’ rules173. As such, it may be best to have 
+decisions behind life-for-life trade-offs perceived as systematic 
+and coming from governmental agencies rather than from physi-
+cians themselves.
+Moral decision-making. Moral decision-making during a pan-
+demic involves uncertainty. It’s not certain whether social interac-
+tions will infect others. People may be less willing to make sacrifices 
+for others when the benefits are uncertain174,175. For instance, in 
+hypothetical scenarios about deciding whether to go to work while 
+sick, American and British participants reported they would be 
+less willing to stay home when it was uncertain they would infect 
+a co-worker. However, when going to work risked infecting an 
+elderly co-worker who would suffer a serious illness, participants 
+reported they would be more willing to stay home176. Thus, focusing 
+on worst-case scenarios, even if they are uncertain, may encourage 
+people to make sacrifices for others.
+When people make moral decisions, they often consider how 
+others would judge them for behaving selfishly177,178. Harmful 
+actions are judged more harshly than harmful inactions179,180, and 
+causing harm by deviating from the status quo is blamed more than 
+harming by default181,182. Therefore, reframing decisions to carry 
+on with ‘business as usual’ during a pandemic as active decisions, 
+rather than passive or default decisions, may make such behaviours 
+less acceptable.
+Cooperation within groups. Fighting a global pandemic requires 
+large-scale cooperation. The problem is that, by definition, coop-
+eration requires people to bear an individual cost to benefit other 
+people183. In particular, there is a conflict between short-term 
+self-interest vs longer-term collective interest184. Moreover, in this 
+pandemic, there are several collectives (for example, family, com-
+munity, national and international) which can make decisions to 
+cooperate challenging. From an evolutionary perspective, extending 
+self-interest to protect and promote the welfare of family members 
+should be a small step, as it increases genetic fitness. Indeed, labo-
+ratory research has found that people prioritize local over global 
+(or international) interests185,186. One major question, then, is how to 
+promote cooperation.
+Several techniques, such as sanctioning defectors187 or rewarding 
+cooperators188, tend to increase cooperative behaviour in laboratory 
+experiments using economic games. Providing cues that make the 
+morality of an action salient (such as having people read the Golden 
+Rule before making a decision or asking them to report what they 
+think is the morally right thing to do) have also been shown to 
+increase cooperation189,190. People are also more likely to cooperate 
+when they believe that others are cooperating191. Accordingly, inter-
+ventions based on observability and descriptive norms are highly 
+effective at increasing cooperative behaviour in economic games as 
+well as in the field192. This suggests that leaders and the media can 
+promote cooperation by making these behaviours more observable.
+Leadership. Crises like the COVID-19 pandemic create an oppor-
+tunity for leadership across groups of varying levels: families, work-
+places, local communities and nations. Leadership can coordinate 
+individuals and help them avoid behaviours that are no longer con-
+sidered socially responsible. In this section, we discuss the roles of 
+trust and compliance with leaders, effective identity leadership and 
+supporting group members.
+Trust and compliance. During a pandemic, health officials often 
+need to persuade the population to make a number of behaviour 
+changes and follow health policies aimed at containment—e.g., 
+honouring quarantine or reporting voluntarily for medical testing. 
+By their nature and the scope of the population, such measures can 
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+465
+
+
+--- PAGE 7 ---
+Perspective
+NaTure Human BehaVIOur
+be difficult to enforce. Research from the West Africa Ebola cri-
+sis of 2014–2015 suggests that enlisting local voices to help build 
+engagement and trust in health officials can increase the success of 
+such public health measures. For instance, specialized Ebola 
+treatment facilities that employed community liaisons and social 
+mobilizers to raise awareness and resolve misconceptions were 
+associated with increases in reporting Ebola cases193. Correlational 
+evidence from Liberia also suggests that explicit government efforts 
+to reach out to the population, like door-to-door canvassing, are 
+associated with compliance with crisis management policies like 
+bans on gatherings194.
+Trust in institutions and governments also may play an important 
+role. For example, trust in the Liberian government was correlated 
+with decisions to abide by mandated social distancing policies195 
+and using clinics for care during the Ebola outbreak196. Trust was 
+also related to decisions to adopt preventive measures such as Ebola 
+vaccinations in the Democratic Republic of Congo197. Conversely, 
+a lack of trust in public health officials may lead to negative effects 
+on utilization of health services198. Reliable information and public 
+health messages are needed from national leaders and central health 
+officials. But local voices can amplify these messages and help build 
+the trust that is needed to spur behavioural change.
+Identity leadership. Experimental studies clarify what leaders can 
+do to promote trust leading to cooperation. A priority for leaders is 
+to create a sense of shared social identity amongst their followers199. 
+A large body of research suggests that people tend to prefer leaders 
+who cultivate a sense that ‘we are all in this together’200. In part, such 
+leadership gives people a sense of collective self-efficacy and hope201. 
+More importantly, though, it provides a psychological platform for 
+group members to coordinate efforts to tackle stressors202. Without 
+leadership, there is a risk that people will avoid acts of citizenship 
+and instead embrace a philosophy of ‘everyone for themselves’.
+Leaders who are seen as prototypical of the group (‘one of us’) 
+and as acting for the interest of the group as a whole (‘working for 
+us’), rather than for themselves or for another group, tend to gain 
+greater influence203,204. Actions that divide the leader from followers 
+or that suggest that the leader is not prepared to share the burdens of 
+followers can be corrosive to their ability to shape followers’ behav-
+iour205. For instance, leaders who threaten people with sanctions as 
+a way to deter undesired behaviour may make people feel distrusted 
+and paradoxically reduce their willingness to do as they are told206. 
+Leaders and authorities who treat people with respect, and who 
+communicate that they trust people to do as they are told, tend to be 
+more successful in eliciting cooperation207.
+Elevating the in-group without demeaning others. Building a 
+strong sense of shared social identity can help coordinate efforts 
+to manage threats202 and foster in-group commitment and adher-
+ence to norms208. Leaders can do this, for instance, by being a 
+source of ‘moral elevation’. Visibly displaying prosocial and selfless 
+acts can prompt observers to also act with kindness and generos-
+ity themselves209. In this way, leaders can function as role models 
+and motivate people to put their own values into action210,211. Having 
+respected politicians, celebrities and community leaders model 
+exemplary behaviour and sacrifice could help promote prosocial 
+behaviour and cooperation.
+Excessive efforts to foster a sense of national unity by promot-
+ing the image of the nation as handling the situation exceptionally 
+well can backfire, especially if there is no objective basis for this. An 
+inflated belief in national greatness (i.e., ‘collective narcissism’212) 
+can be maladaptive in a number of ways. For instance, it is asso-
+ciated with a greater focus on defending the image of the country 
+than on caring for its citizens213,214. It is also correlated with seeing 
+out-groups as a threat and blaming them for in-group misfortunes215. 
+To increase people’s willingness to take a pandemic seriously and 
+engage with other nations to defeat it, citizens and leaders may need 
+to accept that their country is at risk, just like others, and find ways 
+to share resources and expertise across national boundaries.
+Stress and coping
+Even for households free from the virus, the pandemic is likely to 
+function as a major stressor, especially in terms of chronic anxi-
+ety and economic difficulties. Such effects may be exacerbated by 
+self-isolation policies that can increase social isolation and rela-
+tionship difficulties. In this section, we consider some strategies to 
+mitigate the virus-linked threats to social connection, intimate rela-
+tionships and stress.
+Social isolation and connection. In the absence of a vaccine, one 
+of the most vital strategies for slowing the pandemic is social dis-
+tancing. However, distancing clashes with the deep-seated human 
+instinct to connect with others216. Social connection helps people 
+regulate emotions, cope with stress and remain resilient during dif-
+ficult times217–220. By contrast, loneliness and social isolation worsen 
+the burden of stress and often produce deleterious effects on men-
+tal, cardiovascular and immune health221,222. Older adults, who are 
+at the greatest risk of severe symptoms from COVID-19, are also 
+highly susceptible to isolation223. Distancing threatens to aggravate 
+feelings of loneliness and could produce negative long-term health 
+consequences.
+Scholars have identified strategies that could mitigate these out-
+comes. First, in psychological terms, loneliness is construed as the 
+subjective state that one is not experiencing enough social connec-
+tion, whereas isolation is an objective lack of social interactions224. 
+This means one can be isolated but not lonely, or lonely in a crowd. 
+Thus, the term ‘social distancing’ might imply that one needs to 
+cut off meaningful interactions. A useful alternative term might be 
+‘physical distancing’, to help highlight the fact that social connection 
+is possible even when people are physically separated.
+Online interactions can also foster a sense of connection. Both 
+receiving and giving support online can bolster psychological 
+well-being225. However, we caution against enhanced passive use of 
+social media, as research suggests that it may not contribute to one’s 
+sense of social connection226,227. Instead, technologies that are infor-
+mationally rich, dyadic and temporally synchronous appear better 
+suited to generating empathy and connection228,229. Special attention 
+should be placed on helping people who are less familiar with these 
+technologies to learn how to take advantage of digital connections.
+Intimate relatinships. The social effects of the pandemic also extend 
+to the inside of our homes, where many people find themselves in 
+sudden forced proximity with their immediate family. People sub-
+ject to quarantine or self-isolation are at risk for confusion and 
+anger230, emotional tendencies that can be explosive when multi-
+ple household members simultaneously endure them for weeks or 
+months on end. Indeed, some studies suggest that forced proximity 
+is a risk factor for aggression231,232 and domestic violence233.
+Even without forced proximity, stress, including economic 
+stress234, is linked to relationship difficulties. It often changes the 
+content of social interactions (for example, more focus on unpleas-
+ant logistics, less focus on emotional connection) and undermines 
+the psychological resources, like empathy and patience, that make 
+challenging interactions go smoothly235. A study of the effects of 
+Hurricane Hugo in 1989, for example, revealed that harder-hit areas 
+experienced a spike in the divorce rate236. The news is not all bad, 
+however: the hurricane study also documented surging marriage 
+and birth rates236.
+Major stressors, it seems, alter the trajectories of our intimate 
+relationships, but researchers are still unpacking when, why and for 
+whom these effects are harmful vs beneficial. But one factor under-
+lying success is for individuals to calibrate their expectations to the 
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+466
+
+
+--- PAGE 8 ---
+Perspective
+NaTure Human BehaVIOur
+circumstances, a process that will vary from couple to couple and 
+from partner to partner237. The recalibration process involves both 
+(i) lowering broad expectations that the course of true love in the 
+time of COVID-19 will run smoothly while also (ii) sustaining high 
+expectations in those domains where the relationship can deliver in 
+these conditions.
+Healthy mind-sets. In the face of a global pandemic, avoiding stress 
+altogether is simply not an option. Fortuitously, the past twenty 
+years of research on coping and stress suggest that it’s not the type 
+or amount of stress that determines its impact. Rather, mind-sets 
+and situation appraisals about stress can alter its impact238,239. For 
+instance, some research finds these mind-sets can increase the pos-
+sibility of ‘stress-related growth’, a phenomenon in which stressful 
+experiences serve to increase physiological toughening240–242, help 
+reorganize our priorities and can help lead to deeper relationships 
+and a greater appreciation for life243.
+Preliminary research suggests that mind-sets about stress can be 
+changed with short and targeted interventions. These interventions 
+do not focus on viewing the stressor (such as the virus) as less of 
+a threat244. Instead, they invite people to recognize that we tend to 
+stress about things we care deeply about and that we can harness 
+the stress response for positive gain. A number of studies found that 
+inducing more adaptive mind-sets about stress could increase posi-
+tive emotion, reduce negative health symptoms and boost physi-
+ological functioning under acute stress244,245. Research is needed to 
+see if adopting these mind-sets can help some people harness the 
+stress during a pandemic for positive growth.
+Conclusion
+Over 100 years ago, Science magazine published a paper on lessons 
+from the Spanish Flu pandemic246. The paper argued that three main 
+factors stand in the way of prevention: (i) people do not appreciate 
+the risks they run, (ii) it goes against human nature for people to 
+shut themselves up in rigid isolation as a means of protecting others, 
+and (iii) people often unconsciously act as a continuing danger to 
+themselves and others. Our paper provides some insights from the 
+past century of work on related issues in the social and behavioural 
+sciences that may help public health officials mitigate the impact 
+of the current pandemic. Specifically, we discussed research on 
+threat perception, social context, science communication, aligning 
+individual and collective interests, leadership, and stress and cop-
+ing. These are a selection of relevant topics, but readers may also 
+be interested in other relevant work, including on psychological 
+reactance247,248, collective emotions and social media249,250, and the 
+impact of economic deprivation and unemployment251,252.
+Urgent action is needed to mitigate the potentially devastating 
+effects of COVID-19, action that can be supported by the behav-
+ioural and social sciences. However, many of the implications out-
+lined here may also be relevant to future pandemics and public 
+health crises. A recent report253 from the World Health Organization 
+declared that “health communication is seen to have relevance for 
+virtually every aspect of health and well-being, including disease 
+prevention, health promotion and quality of life.”
+Received: 24 March 2020; Accepted: 9 April 2020;  
+Published online: 30 April 2020
+References
+	1.	
+Zhou, F. et al. Clinical course and risk factors for mortality of adult 
+inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. 
+Lancet 395, 1054–1062 (2020).
+	2.	
+Lunn, P. et al. Using behavioural science to help fight the coronavirus. ESRI 
+Working Paper No. 656 March 2020. http://aei.pitt.edu/102644/ (2020).
+	3.	
+Scott, S. & Duncan, C.J. Biology of Plagues: Evidence from Historical 
+Populations. (Cambridge University Press, 2001).
+	4.	
+LeDoux, J. Rethinking the emotional brain. Neuron 73, 653–676 (2012).
+	5.	
+Mobbs, D., Hagan, C. C., Dalgleish, T., Silston, B. & Prévost, C. The ecology 
+of human fear: survival optimization and the nervous system.  
+Front. Neurosci. 9, 55 (2015).
+	6.	
+Kramer, A. D. I., Guillory, J. E. & Hancock, J. T. Experimental evidence of 
+massive-scale emotional contagion through social networks. Proc. Natl 
+Acad. Sci. USA 111, 8878–8790 (2014).
+	7.	
+Cole, S., Balcetis, E. & Dunning, D. Affective signals of threat increase 
+perceived proximity. Psychol. Sci. 24, 34–40 (2013).
+	8.	
+Witte, K. & Allen, M. A meta-analysis of fear appeals: implications for 
+effective public health campaigns. Health Educ. Behav. 27, 591–615 (2000).
+	9.	
+Strunk, D. R., Lopez, H. & DeRubeis, R. J. Depressive symptoms are 
+associated with unrealistic negative predictions of future life events. Behav. 
+Res. Ther. 44, 861–882 (2006).
+	10.	
+Sharot, T. The optimism bias. Curr. Biol. 21, R941–R945 (2011).
+	11.	
+Wise, T., Zbozinek, T. D., Michelini, G., Hagan, C. C. & Mobbs, D. Changes 
+in risk perception and protective behavior during the first week of the 
+COVID-19 pandemic in the United States. Preprint at PsyArXiv https://osf.
+io/dz428 (2020).
+	12.	
+Fischhoff, B. The sciences of science communication. Proc. Natl Acad. Sci. 
+USA 110(Suppl 3), 14033–14039 (2013).
+	13.	
+Slovic, P. Perception of risk. Science 236, 280–285 (1987).
+	14.	
+Slovic, P., Finucane, M. L., Peters, E. & MacGregor, D. G. Risk as analysis 
+and risk as feelings: some thoughts about affect, reason, risk, and rationality. 
+Risk Anal. 24, 311–322 (2004).
+	15.	
+Loewenstein, G. F., Weber, E. U., Hsee, C. K. & Welch, N. Risk as feelings. 
+Psychol. Bull. 127, 267–286 (2001).
+	16.	
+Peters, E., Lipkus, I. & Diefenbach, M. A. The functions of affect in health 
+communications and in the construction of health preferences. J. Commun. 
+56, S140–S162 (2006).
+	17.	
+Evans, A. T. et al. Graphic warning labels elicit affective and thoughtful 
+responses from smokers: results of a randomized clinical trial. PLoS One 10, 
+e0142879 (2015).
+	18.	
+Noar, S. M. et al. Pictorial cigarette pack warnings: a meta-analysis of 
+experimental studies. Tob. Control 25, 341–354 (2016).
+	19.	
+Rottenstreich, Y. & Hsee, C. K. Money, kisses, and electric shocks: on the 
+affective psychology of risk. Psychol. Sci. 12, 185–190 (2001).
+	20.	
+Hsee, C. K. & Rottenstreich, Y. Music, pandas, and muggers: on the 
+affective psychology of value. J. Exp. Psychol. Gen. 133, 23–30 (2004).
+	21.	
+Peters, E. et al. Numeracy and decision making. Psychol. Sci. 17,  
+407–413 (2006).
+	22.	
+Schaller, M. & Neuberg, S. L. Danger, disease, and the nature of 
+prejudice(s). Advances in Experimental Social Psychology 46, 1–54 (2012).
+	23.	
+Feldman, S. & Stenner, K. Perceived threat and authoritarianism.  
+Polit. Psychol. 18, 741–770 (1997).
+	24.	
+Jackson, J. C. et al. Ecological and cultural factors underlying the global 
+distribution of prejudice. PLoS One 14, e0221953 (2019).
+	25.	
+Marcus, G. E., Sullivan, J. L., Theiss-Morse, E. & Wood, S. L. With Malice 
+Toward Some: How People Make Civil Liberties Judgments. (Cambridge Univ. 
+Press, 1995).
+	26.	
+Cikara, M., Bruneau, E. G. & Saxe, R. R. Us and them: intergroup failures 
+of empathy. Curr. Dir. Psychol. Sci. 20, 149–153 (2011).
+	27.	
+Han, S. Neurocognitive basis of racial ingroup bias in empathy.  
+Trends Cogn. Sci. 22, 400–421 (2018).
+	28.	
+Kteily, N., Hodson, G. & Bruneau, E. They see us as less than human: 
+metadehumanization predicts intergroup conflict via reciprocal 
+dehumanization. J. Pers. Soc. Psychol. 110, 343–370 (2016).
+	29.	
+Han, X. et al. A neurobiological association of revenge propensity during 
+intergroup conflict. eLife 9, e52014 (2020).
+	30.	
+Cohn, S. K. Pandemics: waves of disease, waves of hate from the Plague of 
+Athens to A.I.D.S. Hist. J. 85, 535–555 (2012).
+	31.	
+Russell, A. The rise of coronavirus hate crimes. The New Yorker  
+https://www.newyorker.com/news/letter-from-the-uk/
+the-rise-of-coronavirus-hate-crimes (2020).
+	32.	
+Dovidio, J. F., Gaertner, S. L. & Saguy, T. Another view of “we”: majority 
+and minority group perspectives on a common ingroup identity. Eur. Rev. 
+Soc. Psychol. 18, 296–330 (2007).
+	33.	
+Wright, S. C., Aron, A., McLaughlin-Volpe, T. & Ropp, S. A. The extended 
+contact effect: knowledge of cross-group friendships and prejudice.  
+J. Pers. Soc. Psychol. 73, 73–90 (1997).
+	34.	
+Clarke, L. Panic: myth or reality? Contexts 1, 21–26 (2002).
+	35.	
+Drury, J. The role of social identity processes in mass emergency behaviour: 
+an integrative review. Eur. Rev. Soc. Psychol. 29, 38–81 (2018).
+	36.	
+Booth, R. Community aid groups set up across UK amid coronavirus crisis. 
+The Guardian https://www.theguardian.com/society/2020/mar/16/
+community-aid-groups-set-up-across-uk-amid-coronavirus-crisis  
+(16 March 2020).
+	37.	
+Canter, D. Fires and Human Behaviour. (David Fulton, 1990).
+	38.	
+Tierney, K.J., Lindell, M.K. & Perry, R.W. Facing the Unexpected: Disaster 
+Preparedness and Response in the United States. (Joseph Henry Press, 2001).
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+467
+
+
+--- PAGE 9 ---
+Perspective
+NaTure Human BehaVIOur
+	39.	
+Quarantelli, E.L. Sociology of panic. in International Encyclopedia of the 
+Social and Behavioural Sciences (eds. Smelser, N. J. & Baltes, P. B.) 
+11020–11023 (Pergamon Press, 2001).
+	40.	
+Drury, J., Cocking, C. & Reicher, S. The nature of collective resilience: 
+survivor reactions to the 2005 London bombings. Int. J. Mass Emerg. 
+Disasters 27, 66–95 (2009).
+	41.	
+Carter, H., Drury, J., Rubin, G. J., Williams, R. & Amlôt, R. Applying crowd 
+psychology to develop recommendations for the management of mass 
+decontamination. Health Secur. 13, 45–53 (2015).
+	42.	
+Stiff, C. The game theory of panic-buying – and how to reduce it.  
+The Conversation http://theconversation.com/
+the-game-theory-of-panic-buying-and-how-to-reduce-it-134107 (2020).
+	43.	
+Cialdini, R. B. & Goldstein, N. J. Social influence: compliance and 
+conformity. Annu. Rev. Psychol. 55, 591–621 (2004).
+	44.	
+Wood, W. Attitude change: persuasion and social influence. Annu. Rev. 
+Psychol. 51, 539–570 (2000).
+	45.	
+Miller, D.T. & Prentice, D.A. The construction of social norms and 
+standards. in Social Psychology: Handbook of Basic Principles 799–829 
+(Guilford Press, 1996).
+	46.	
+Dickie, R., Rasmussen, S., Cain, R., Williams, L. & MacKay, W. The effects 
+of perceived social norms on handwashing behaviour in students. Psychol. 
+Health Med. 23, 154–159 (2018).
+	47.	
+Berkowitz, A.D. An overview of the social norms approach. in Changing the 
+Culture of College Drinking: A Socially Situated Health Communication 
+Campaign (eds. Stewart, L. & Lederman, L. C.) 193–214 (Hampton  
+Press, 2005).
+	48.	
+Cialdini, R.B., Kallgren, C.A. & Reno, R.R. A focus theory of normative 
+conduct: a theoretical refinement and reevaluation of the role of norms in 
+human behavior. in Advances in Experimental Social Psychology 24,  
+201–234 (1991).
+	49.	
+Schultz, P. W., Nolan, J. M., Cialdini, R. B., Goldstein, N. J. & Griskevicius, 
+V. The constructive, destructive, and reconstructive power of social norms. 
+Psychol. Sci. 18, 429–434 (2007).
+	50.	
+Abrams, D., Wetherell, M., Cochrane, S., Hogg, M. A. & Turner, J. C. 
+Knowing what to think by knowing who you are: self-categorization and 
+the nature of norm formation, conformity and group polarization. Br. J. Soc. 
+Psychol. 29, 97–119 (1990).
+	51.	
+Centola, D. An experimental study of homophily in the adoption of health 
+behavior. Science 334, 1269–1272 (2011).
+	52.	
+Christakis, N. A. & Fowler, J. H. Social contagion theory: examining 
+dynamic social networks and human behavior. Stat. Med. 32,  
+556–577 (2013).
+	53.	
+Christakis, N. A. & Fowler, J. H. Social network sensors for early detection 
+of contagious outbreaks. PLoS One 5, e12948 (2010).
+	54.	
+Kim, D. A. et al. Social network targeting to maximise population 
+behaviour change: a cluster randomised controlled trial. Lancet 386, 
+145–153 (2015).
+	55.	
+Bond, R. M. et al. A 61-million-person experiment in social influence and 
+political mobilization. Nature 489, 295–298 (2012).
+	56.	
+Halpern, D. Inside the Nudge Unit: How Small Changes Can Make a Big 
+Difference (Random House, 2015).
+	57.	
+Thaler, R.H. & Sunstein, C.R. Nudge: Improving Decisions About Health, 
+Wealth, and Happiness. (Yale University Press, 2008).
+	58.	
+Sparkman, G. & Walton, G. M. Dynamic norms promote sustainable 
+behavior, even if it is counternormative. Psychol. Sci. 28, 1663–1674 (2017).
+	59.	
+HUD Continuum of Care Homeless Assistance Programs Homeless 
+Populations and Subpopulations. https://files.hudexchange.info/reports/
+published/CoC_PopSub_NatlTerrDC_2019.pdf (US Department of Housing 
+& Urban Development, 2019).
+	60.	
+Deitz, S. & Meehan, K. Plumbing poverty: mapping hot spots of racial and 
+geographic inequality in U.S. household water insecurity. Ann. Am. Assoc. 
+Geogr. 109, 1092–1109 (2019).
+	61.	
+Bureau of Labor Statistics, U.S. Department of Labor. Higher wage workers 
+more likely than lower wage workers to have paid leave benefits in 2018. 
+The Economics Daily https://www.bls.gov/opub/ted/2018/higher-wage- 
+workers-more-likely-than-lower-wage-workers-to-have-paid-leave-benefits- 
+in-2018.htm (2018).
+	62.	
+Cockerham, W. C., Hamby, B. W. & Oates, G. R. The social determinants of 
+chronic disease. Am. J. Prev. Med. 52(1S1), S5–S12 (2017).
+	63.	
+Fothergill, A. & Peek, L. A. Poverty and disasters in the United States: a 
+review of recent sociological findings. Nat. Hazards 32, 89–110 (2004).
+	64.	
+Bolin, B. & Kurtz, L.C. Race, class, ethnicity, and disaster vulnerability. in 
+Handbook of Disaster Research (eds. Rodríguez, H., Donner, W. & Trainor, 
+J. E.) 181–203 (Springer International Publishing, 2018).
+	65.	
+Kristal, T., Cohen, Y. & Navot, E. Benefit inequality among American 
+workers by gender, race, and ethnicity, 1982–2015. Sociol. Sci. 5,  
+461–488 (2018).
+	66.	
+National Academies of Sciences, Engineering, and Medicine. Communities 
+in Action: Pathways to Health Equity. (National Academies Press, 2017).
+	67.	
+Quiñones, A. R. et al. Racial/ethnic differences in multimorbidity 
+development and chronic disease accumulation for middle-aged adults. 
+PLoS One 14, e0218462 (2019).
+	68.	
+Marsden, P. V. Core discussion networks of Americans. Am. Sociol. Rev. 52, 
+122–131 (1987).
+	69.	
+Granovetter, M. S. The strength of weak ties. Am. J. Sociol. 78,  
+1360–1380 (1973).
+	70.	
+Demaris, A. & Yang, R. Race, alienation, and interpersonal mistrust.  
+Sociol. Spectr. 14, 327–349 (1994).
+	71.	
+Brehm, J. & Rahn, W. Individual-level evidence for the causes and 
+consequences of social capital. Am. J. Pol. Sci. 41, 999–1023 (1997).
+	72.	
+Smith, T. W. Factors relating to misanthropy in contemporary American 
+society. Soc. Sci. Res. 26, 170–196 (1997).
+	73.	
+Claibourn, M. P. & Martin, P. S. Trusting and Joining? An empirical test of 
+the reciprocal nature of social capital. Polit. Behav. 22, 267–291 (2000).
+	74.	
+Alesina, A. & La Ferrara, E. Who trusts others? J. Public Econ. 85,  
+207–234 (2002).
+	75.	
+Markus, H. R. & Kitayama, S. Culture and the self: Implications for 
+cognition, emotion, and motivation. Psychol. Rev. 98, 224–253 (1991).
+	76.	
+Triandis, H.C. Individualism And Collectivism. (Westview Press, 1995).
+	77.	
+Kitayama, S., Park, H., Sevincer, A. T., Karasawa, M. & Uskul, A. K. A 
+cultural task analysis of implicit independence: comparing North America, 
+Western Europe, and East Asia. J. Pers. Soc. Psychol. 97, 236–255 (2009).
+	78.	
+San Martin, A. et al. Self-assertive interdependence in Arab culture. Nat. 
+Hum. Behav. 2, 830–837 (2018).
+	79.	
+Kitayama, S. et al. Behavioral adjustment moderates the link between 
+neuroticism and biological health risk: a U.S.-Japan comparison study. Pers. 
+Soc. Psychol. Bull. 44, 809–822 (2018).
+	80.	
+Betsch, C., Böhm, R., Korn, L. & Holtmann, C. On the benefits of explaining 
+herd immunity in vaccine advocacy. Nat. Hum. Behav. 1, 56 (2017).
+	81.	
+Kraus, B. & Kitayama, S. Interdependent self-construal predicts emotion 
+suppression in Asian Americans: an electro-cortical investigation. Biol. 
+Psychol. 146, 107733 (2019).
+	82.	
+Gelfand, M. J. et al. Differences between tight and loose cultures: a 
+33-nation study. Science 332, 1100–1104 (2011).
+	83.	
+Gelfand, M. J., Harrington, J. R. & Jackson, J. C. Perspect. Psychol. Sci. 12, 
+800–809 (2017). The strength of social norms across human groups.
+	84.	
+Harrington, J. R. & Gelfand, M. J. Tightness-looseness across the 50 United 
+States. Proc. Natl Acad. Sci. USA 111, 7990–7995 (2014).
+	85.	
+Roos, P., Gelfand, M., Nau, D. & Lun, J. Societal threat and cultural 
+variation in the strength of social norms: an evolutionary basis. Organ. 
+Behav. Hum. Decis. Process. 129, 14–23 (2015).
+	86.	
+Gelfand, M. Rule Makers, Rule Breakers: How Tight and Loose Cultures 
+Wire Our World. (Scribner, 2018).
+	87.	
+Westwood, S. J. et al. The tie that divides: cross-national evidence of the 
+primacy of partyism. Eur. J. Polit. Res. 57, 333–354 (2018).
+	88.	
+Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N. & Westwood, S. J. The 
+origins and consequences of affective polarization in the United States. 
+Annu. Rev. Polit. Sci. 22, 129–146 (2019).
+	89.	
+Hetherington, M.J. & Weiler, J.D. Authoritarianism and polarization in 
+American politics, still? in American Gridlock: The Sources, Character, and 
+Impact of Polarization (eds. Thurber, J. A. & Yoshinaka, A.) 86–112 
+(Cambridge Univ. Press, 2015).
+	90.	
+Abramowitz, A. I. & Webster, S. The rise of negative partisanship and  
+the nationalization of U.S. elections in the 21st century. Elect. Stud. 41, 
+12–22 (2016).
+	91.	
+Van Bavel, J. J. & Pereira, A. The partisan brain: an identity-based model of 
+political belief. Trends Cogn. Sci. 22, 213–224 (2018).
+	92.	
+Bakshy, E., Messing, S. & Adamic, L. A. Political science. Exposure to 
+ideologically diverse news and opinion on Facebook. Science 348, 
+1130–1132 (2015).
+	93.	
+Lelkes, Y., Sood, G. & Iyengar, S. The hostile audience: the effect of access 
+to broadband internet on partisan affect. Am. J. Pol. Sci. 61, 5–20 (2017).
+	94.	
+Brady, W. J., Wills, J. A., Jost, J. T., Tucker, J. A. & Van Bavel, J. J. Emotion 
+shapes the diffusion of moralized content in social networks. Proc. Natl 
+Acad. Sci. USA 114, 7313–7318 (2017).
+	95.	
+Minozzi, W., Song, H., Lazer, D. M. J., Neblo, M. A. & Ognyanova, K. The 
+incidental pundit: who talks politics with whom, and why? Am. J. Pol. Sci. 
+64, 135–151 (2020).
+	96.	
+Ahler, D. J. & Sood, G. The parties in our heads: misperceptions about 
+party composition and their consequences. J. Polit. 80, 964–981 (2018).
+	97.	
+Lees, J. & Cikara, M. Inaccurate group meta-perceptions drive negative 
+out-group attributions in competitive contexts. Nat. Hum. Behav. 4, 
+279–286 (2020).
+	98.	
+Bolsen, T., Druckman, J. N. & Cook, F. L. The influence of partisan 
+motivated reasoning on public opinion. Polit. Behav. 36, 235–262 (2014).
+	99.	
+Ellis, E.G. The coronavirus outbreak is a petri dish for conspiracy theories. 
+Wired https://www.wired.com/story/coronavirus-conspiracy-theories/ 
+(2020).
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+468
+
+
+--- PAGE 10 ---
+Perspective
+NaTure Human BehaVIOur
+	100.	 Gertz, B. Coronavirus may have originated in lab linked to China’s 
+biowarfare program. The Washington Times https://www.washingtontimes.
+com/news/2020/jan/26/coronavirus-link-to-china-biowarfare-program- 
+possi/ (2020).
+	101.	 Sommer, W. QAnon-ers’ magic cure for coronavirus: just drink bleach! The 
+Daily Beast https://www.thedailybeast.com/qanon-conspiracy-theorists- 
+magic-cure-for-coronavirus-is-drinking-lethal-bleach (2020).
+	102.	 Leman, P. & Cinnirella, M. A major event has a major cause: evidence for 
+the role of heuristics in reasoning about conspiracy theories. Soc. Psychol. 
+Rev. 9, 18–28 (2007).
+	103.	 McCauley, C. & Jacques, S. The popularity of conspiracy theories of 
+presidential assassination: a Bayesian analysis. J. Pers. Soc. Psychol. 37, 
+637–644 (1979).
+	104.	 van Prooijen, J.-W. & Douglas, K. M. Conspiracy theories as part of history: 
+the role of societal crisis situations. Mem. Stud. 10, 323–333 (2017).
+	105.	 Douglas, K. M., Sutton, R. M. & Cichocka, A. The psychology of conspiracy 
+theories. Curr. Dir. Psychol. Sci. 26, 538–542 (2017).
+	106.	 Graeupner, D. & Coman, A. The dark side of meaning-making: how  
+social exclusion leads to superstitious thinking. J. Exp. Soc. Psychol. 69, 
+218–222 (2017).
+	107.	 Jolley, D. & Douglas, K. M. The effects of anti-vaccine conspiracy theories 
+on vaccination intentions. PLoS One 9, e89177 (2014).
+	108.	 Lewandowsky, S., Gignac, G. E. & Oberauer, K. The robust relationship 
+between conspiracism and denial of (climate) science. Psychol. Sci. 26, 
+667–670 (2015).
+	109.	 van Prooijen, J.-W., Krouwel, A. P. M. & Pollet, T. V. Political extremism 
+predicts belief in conspiracy theories. Soc. Psychol. Personal. Sci. 6,  
+570–578 (2015).
+	110.	 Jolley, D., Meleady, R. & Douglas, K. M. Exposure to intergroup conspiracy 
+theories promotes prejudice which spreads across groups. Br. J. Psychol. 
+111, 17–35 (2020).
+	111.	 Kofta, M., Soral, W. & Bilewicz, M. What breeds conspiracy antisemitism? 
+The role of political uncontrollability and uncertainty in the belief in Jewish 
+conspiracy. J. Pers. Soc. Psychol. https://doi.org/10.1037/pspa0000183 (2020).
+	112.	 Marchlewska, M., Cichocka, A., Łozowski, F., Górska, P. & Winiewski, M. 
+In search of an imaginary enemy: Catholic collective narcissism and  
+the endorsement of gender conspiracy beliefs. J. Soc. Psychol. 159,  
+766–779 (2019).
+	113.	 Jolley, D. & Douglas, K. M. Prevention is better than cure: addressing 
+anti‐vaccine conspiracy theories. J. Appl. Soc. Psychol. 47, 459–469 (2017).
+	114.	 Zollo, F. et al. Debunking in a world of tribes. PLoS One 12, e0181821 (2017).
+	115.	 Frenkel, S., Alba, D. & Zhong, R. Surge of virus misinformation stumps 
+Facebook and Twitter. The New York Times https://www.nytimes.com/ 
+2020/03/08/technology/coronavirus-misinformation-social-media.html 
+(2020).
+	116.	 Allen, J., Howland, B., Mobius, M., Rothschild, D. & Watts, D. J. Evaluating 
+the fake news problem at the scale of the information ecosystem. Sci. Adv. 
+1, eaay3539 (2020).
+	117.	 Allcott, H. & Gentzkow, M. Social media and fake news in the 2016 
+election. J. Econ. Perspect. 31, 211–236 (2017).
+	118.	 Guess, A., Nagler, J. & Tucker, J. Less than you think: prevalence and 
+predictors of fake news dissemination on Facebook. Sci. Adv. 5, u4586 (2019).
+	119.	 Berinsky, A. J. Rumors and health care reform: experiments in political 
+misinformation. Br. J. Polit. Sci. 47, 241–262 (2017).
+	120.	 Lewandowsky, S., Ecker, U. K. H., Seifert, C. M., Schwarz, N. & Cook, J. 
+Misinformation and its correction: continued influence and successful 
+debiasing. Psychol. Sci. Public Interest 13, 106–131 (2012).
+	121.	 Guess, A. & Coppock, A. Does counter-attitudinal information cause 
+backlash? Results from three large survey experiments. Br. J. Polit. Sci. 
+https://doi.org/10.1017/S0007123418000327 (2018).
+	122.	 Schmid, P. & Betsch, C. Effective strategies for rebutting science denialism 
+in public discussions. Nat. Hum. Behav. 3, 931–939 (2019).
+	123.	 Nyhan, B. & Reifler, J. Displacing misinformation about events: an 
+experimental test of causal corrections. J. Exp. Political Sci. 2, 81–93 (2015).
+	124.	 Wittenberg, C. & Berinsky, A.J. Misinformation and its correction. in Social 
+Media and Democracy: The State of the Field (eds Persily, N. & Tucker, J. A.) 
+(Cambridge University Press, forthcoming).
+	125.	 Swire, B. & Ecker, U.K.H. Misinformation and its correction: Cognitive 
+mechanisms and recommendations for mass communication. in 
+Misinformation and Mass Audiences (eds. Southwell, B. G., Thorson, E. A. & 
+Sheble, L.) 195–2011 (University of Texas Press, 2018).
+	126.	 Wood, T. & Porter, E. The elusive backfire effect: mass attitudes’ steadfast 
+factual adherence. Polit. Behav. 41, 135–163 (2018).
+	127.	 Pennycook, G., McPhetres, J., Zhang, Y. & Rand, D. Fighting COVID-19 
+misinformation on social media: Experimental evidence for a scalable 
+accuracy nudge intervention. Preprint at PsyArXiv https://doi.org/10.31234/
+osf.io/uhbk9 (2020).
+	128.	 McGuire, W. J. Some contemporary approaches. Advances in Experimental 
+Social Psychology 1, 191–229 (1964).
+	129.	 van der Linden, S., Leiserowitz, A., Rosenthal, S. & Maibach, E. Inoculating 
+the public against misinformation about climate change. Glob. Chall. 1, 
+1600008 (2017).
+	130.	 Banas, J. A. & Rains, S. A. A meta-analysis of research on inoculation 
+theory. Commun. Monogr. 77, 281–311 (2010).
+	131.	 Basol, M., Roozenbeek, J. & van der Linden, S. Good news about bad news: 
+gamified inoculation boosts confidence and cognitive immunity against fake 
+news. J. Cogn. 3, 2 (2020).
+	132.	 Roozenbeek, J. & van der Linden, S. Fake news game confers psychological 
+resistance against online misinformation. Palgrave Commun. 5, 65 (2019).
+	133.	 Roozenbeek, J., van der Linden, S. & Nygren, T. Prebunking interventions 
+based on “inoculation” theory can reduce susceptibility to misinformation 
+across cultures. Harv. Kennedy Sch. Misinformation Rev. https://doi.
+org/10.37016//mr-2020-008 (2020).
+	134.	 Pennycook, G. & Rand, D. G. Lazy, not biased: susceptibility to partisan 
+fake news is better explained by lack of reasoning than by motivated 
+reasoning. Cognition 188, 39–50 (2019).
+	135.	 Pennycook, G. & Rand, D. G. Who falls for fake news? The roles of bullshit 
+receptivity, overclaiming, familiarity, and analytic thinking. J. Pers. 88, 
+185–200 (2020).
+	136.	 Bronstein, M. V., Pennycook, G., Bear, A., Rand, D. G. & Cannon, T. D. 
+Belief in fake news is associated with delusionality, dogmatism, religious 
+fundamentalism, and reduced analytic thinking. J. Appl. Res. Mem. Cogn. 8, 
+108–117 (2019).
+	137.	 Bago, B., Rand, D. G. & Pennycook, G. Fake news, fast and slow: 
+deliberation reduces belief in false (but not true) news headlines. J. Exp. 
+Psychol. Gen. https://psycnet.apa.org/doi/10.1037/xge0000729 (2020).
+	138.	 Dias, N., Pennycook, G. & Rand, D. G. Emphasizing publishers does not 
+effectively reduce susceptibility to misinformation on social media. Harv. 
+Kennedy Sch. Misinformation Rev. https://doi.org/10.37016/mr-2020-001 
+(2020).
+	139.	 Pennycook, G. & Rand, D. G. Fighting misinformation on social media 
+using crowdsourced judgments of news source quality. Proc. Natl Acad. Sci. 
+USA 116, 2521–2526 (2019).
+	140.	 Clayton, K. et al. Real solutions for fake news? Measuring the effectiveness of 
+general warnings and fact-check tags in reducing belief in false stories on 
+social media. Polit. Behav. https://doi.org/10.1007/s11109-019-09533-0 (2019).
+	141.	 Trevena, L.J. et al. Presenting quantitative information about decision 
+outcomes: a risk communication primer for patient decision aid developers. 
+BMC Med. Inform. Decis. Mak. 13 Suppl 2, S7 (2013).
+	142.	 Petty, R. E. & Cacioppo, J. T. The elaboration likelihood model of 
+persuasion. Advances in Experimental Social Psychology 19, 123–205 (1986).
+	143.	 Briñol, P. & Petty, R. E. Source factors in persuasion: a self-validation 
+approach. Eur. Rev. Soc. Psychol. 20, 49–96 (2009).
+	144.	 O’Keefe, D.J. Persuasion: Theory and Research. (SAGE, 2016).
+	145.	 Greyling, C. et al. Lessons from the faith-driven response to the West 
+Africa Ebola epidemic. Rev. Faith Int. Aff. 14, 118–123 (2016).
+	146.	 Teeny, J., Siev, J., Briñol, P. & Petty, R.E. A review and conceptual 
+framework for understanding personalized matching effects in persuasion. 
+J. Consum. Psychol. (in the press).
+	147.	 Grant, A. M. & Hofmann, D. A. It’s not all about me: motivating hand 
+hygiene among health care professionals by focusing on patients. Psychol. 
+Sci. 22, 1494–1499 (2011).
+	148.	 Feinberg, M. & Willer, R. Moral reframing: a technique for effective and 
+persuasive communication across political divides. Soc. Personal. Psychol. 
+Compass 13, e12501 (2019).
+	149.	 Lewandowsky, S., Gignac, G. E. & Vaughan, S. The pivotal role of  
+perceived scientific consensus in acceptance of science. Nat. Clim. Chang. 3, 
+399–404 (2013).
+	150.	 Linden, S. V., Leiserowitz, A. & Maibach, E. Scientific agreement can 
+neutralize politicization of facts. Nat. Hum. Behav. 2, 2–3 (2018).
+	151.	 van der Linden, S., Leiserowitz, A. & Maibach, E. The gateway belief model: 
+a large-scale replication. J. Environ. Psychol. 62, 49–58 (2019).
+	152.	 Drummond, C. & Fischhoff, B. Individuals with greater science literacy and 
+education have more polarized beliefs on controversial science topics. Proc. 
+Natl Acad. Sci. USA 114, 9587–9592 (2017).
+	153.	 Kahan, D. M. et al. The polarizing impact of science literacy and numeracy 
+on perceived climate change risks. Nat. Clim. Chang. 2, 732–735 (2012).
+	154.	 Druckman, J. N. & McGrath, M. C. The evidence for motivated reasoning in 
+climate change preference formation. Nat. Clim. Chang. 9, 111–119 (2019).
+	155.	 Rucker, D., Tormala, Z. L., Petty, R. E. & Briñol, P. Consumer conviction 
+and commitment: an appraisal-based framework for attitude certainty.  
+J. Consum. Psychol. 24, 119–136 (2014).
+	156.	 Barden, J. & Petty, R. E. The mere perception of elaboration creates attitude 
+certainty: exploring the thoughtfulness heuristic. J. Pers. Soc. Psychol. 95, 
+489–509 (2008).
+	157.	 Luttrell, A., Petty, R. E., Briñol, P. & Wagner, B. C. Making it moral: merely 
+labeling an attitude as moral increases its strength. J. Exp. Soc. Psychol. 65, 
+82–93 (2016).
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+469
+
+
+--- PAGE 11 ---
+Perspective
+NaTure Human BehaVIOur
+	158.	 Greene, J. Moral Tribes: Emotion, Reason, and the Gap between Us and 
+Them (Penguin Press, 2013).
+	159.	 Haidt, J. The emotional dog and its rational tail: a social intuitionist 
+approach to moral judgment. Psychol. Rev. 108, 814–834 (2001).
+	160.	 Haidt, J. The Righteous Mind: Why Good People Are Divided by Politics and 
+Religion. (Vintage, 2012).
+	161.	 Tomasello, M. Why We Cooperate. (MIT Press, 2009).
+	162.	 Tooby, J. & Cosmides, L. Groups in mind: the coalitional roots of war  
+and morality. in Human Morality and Sociality (ed. Høgh-Olesen, H.) 
+191–234 (2010).
+	163.	 Leach, C.W., Bilali, R. & Pagliaro, S. Groups and morality. in APA handbook 
+of Personality and Social Psychology, Volume 2: Group Processes 123–149 
+(American Psychological Association, 2015).
+	164.	 Ellemers, N. Morality and the Regulation of Social Behavior.  
+(Routledge, 2017).
+	165.	 Ellemers, N. & van den Bos, K. Morality in groups: on the social- 
+regulatory functions of right and wrong. Soc. Personal. Psychol. Compass 6, 
+878–889 (2012).
+	166.	 Boyer, P. & Petersen, M. B. Folk-economic beliefs: an evolutionary cognitive 
+model. Behav. Brain Sci. 41, 1–51 (2017).
+	167.	 Meegan, D. V. Zero-sum bias: perceived competition despite unlimited 
+resources. Front. Psychol. 1, 191 (2010).
+	168.	 Folch, E., Hernandez, I., Barragan, M. & Franco-Paredes, C. Infectious 
+diseases, non-zero-sum thinking, and the developing world. Am. J. Med. 
+Sci. 326, 66–72 (2003).
+	169.	 Goodwin, G. P. & Landy, J. F. Valuing different human lives. J. Exp. Psychol. 
+Gen. 143, 778–803 (2014).
+	170.	 Awad, E. et al. The Moral Machine experiment. Nature 563, 59–64 (2018).
+	171.	 Everett, J. A. C., Pizarro, D. A. & Crockett, M. J. Inference of 
+trustworthiness from intuitive moral judgments. J. Exp. Psychol. Gen. 145, 
+772–787 (2016).
+	172.	 Funk, C., Hefferon, M., Kennedy, B. & Johnson, C. Trust and Mistrust in 
+Americans’ Views of Scientific Experts. Pew Research Center Science & 
+Society https://www.pewresearch.org/science/2019/08/02/trust-and- 
+mistrust-in-americans-views-of-scientific-experts/ (2019).
+	173.	 Ransohoff, K.J. Patients on the Trolley Track: The Moral Cognition of Medical 
+Practitioners and Public Health Professionals. (Harvard Univ. Press, 2011).
+	174.	 Gino, F., Norton, M. I. & Weber, R. A. Motivated Bayesians: feeling moral 
+while acting egoistically. J. Econ. Perspect. 30, 189–212 (2016).
+	175.	 Garcia, T., Massoni, S. & Villeval, M. C. Ambiguity and excuse-driven 
+behavior in charitable giving. Eur. Econ. Rev. 124, 103412 (2020).
+	176.	 Kappes, A. et al. Uncertainty about the impact of social decisions increases 
+prosocial behaviour. Nat. Hum. Behav. 2, 573–580 (2018).
+	177.	 Barclay, P. & Willer, R. Partner choice creates competitive altruism in 
+humans. Proc. Biol. Sci. 274, 749–753 (2007).
+	178.	 Milinski, M., Semmann, D. & Krambeck, H.-J. Reputation helps solve the 
+‘tragedy of the commons’. Nature 415, 424–426 (2002).
+	179.	 Cushman, F. & Young, L. Patterns of moral judgment derive from nonmoral 
+psychological representations. Cogn. Sci. 35, 1052–1075 (2011).
+	180.	 Ritov, I. & Baron, J. Reluctance to vaccinate: omission bias and ambiguity.  
+J. Behav. Decis. Making 3, 263–277 (1990).
+	181.	 Ritov, I. & Baron, J. Status-quo and omission biases. J. Risk Uncertain. 5, 
+49–61 (1992).
+	182.	 Tetlock, P. E. & Boettger, R. Accountability amplifies the status quo effect 
+when change creates victims. J. Behav. Decis. Making 7, 1–23 (1994).
+	183.	 Nowak, M. A. Five rules for the evolution of cooperation. Science 314, 
+1560–1563 (2006).
+	184.	 Van Lange, P. A. M., Joireman, J. & Milinski, M. Climate change: what 
+psychology can offer in terms of insights and solutions. Curr. Dir. Psychol. 
+Sci. 27, 269–274 (2018).
+	185.	 Milinski, M., Hilbe, C., Semmann, D., Sommerfeld, R. & Marotzke, J. 
+Humans choose representatives who enforce cooperation in social 
+dilemmas through extortion. Nat. Commun. 7, 10915 (2016).
+	186.	 Reinders Folmer, C. P. et al. One for all: what representing a group may do 
+to us. J. Exp. Soc. Psychol. 48, 1047–1056 (2012).
+	187.	 Yamagishi, T. The provision of a sanctioning system as a public good.  
+J. Pers. Soc. Psychol. 51, 110–116 (1986).
+	188.	 Rand, D. G., Dreber, A., Ellingsen, T., Fudenberg, D. & Nowak, M. A. Positive 
+interactions promote public cooperation. Science 325, 1272–1275 (2009).
+	189.	 Dal Bó, E. & Dal Bó, P. “Do the right thing:” the effects of moral suasion 
+on cooperation. J. Public Econ. 117, 28–38 (2014).
+	190.	 Capraro, V., Jagfeld, G., Klein, R., Mul, M. & de Pol, I. V. Increasing 
+altruistic and cooperative behaviour with simple moral nudges. Sci. Rep. 9, 
+11880 (2019).
+	191.	 Fischbacher, U., Gächter, S. & Fehr, E. Are people conditionally 
+cooperative? evidence from a public goods experiment. Econ. Lett. 71, 
+397–404 (2001).
+	192.	 Kraft-Todd, G., Yoeli, E., Bhanot, S. & Rand, D. Promoting cooperation in 
+the field. Curr. Opin. Behav. Sci. 3, 96–101 (2015).
+	193.	 Christensen, D., Dube, O., Haushofer, J., Siddiqi, B. & Voors, M. 
+Community-based crisis response: evidence from Sierra Leone’s Ebola 
+outbreak. Am. Econ. Rev. Pap. Proc. (in the press).
+	194.	 Tsai, L.L., Morse, B.S. & Blair, R.A. Building credibility and cooperation in 
+low-trust settings: persuasion and source accountability in Liberia during 
+the 2014–2015 Ebola crisis. Comp. Polit. Stud. https://doi.
+org/10.1177/0010414019897698 (2020).
+	195.	 Blair, R. A., Morse, B. S. & Tsai, L. L. Public health and public trust: survey 
+evidence from the Ebola virus disease epidemic in Liberia. Soc. Sci. Med. 
+172, 89–97 (2017).
+	196.	 Morse, B., Grépin, K. A., Blair, R. A. & Tsai, L. Patterns of demand for 
+non-Ebola health services during and after the Ebola outbreak: panel survey 
+evidence from Monrovia, Liberia. BMJ Glob. Health 1, e000007 (2016).
+	197.	 Vinck, P., Pham, P. N., Bindu, K. K., Bedford, J. & Nilles, E. J. Institutional 
+trust and misinformation in the response to the 2018-19 Ebola outbreak in 
+North Kivu, DR Congo: a population-based survey. Lancet Infect. Dis. 19, 
+529–536 (2019).
+	198.	 Alsan, M. & Wanamaker, M. Tuskegee and the health of black men.  
+Q. J. Econ. 133, 407–455 (2018).
+	199.	 Reicher, S., Haslam, S. A. & Hopkins, N. Social identity and the dynamics 
+of leadership: Leaders and followers as collaborative agents in the 
+transformation of social reality. Leadersh. Q. 16, 547–568 (2005).
+	200.	 Haslam, S.A., Reicher, S.D. & Platow, M.J. The New Psychology of 
+Leadership: Identity, Influence, and Power. (Routledge, 2011).
+	201.	 Fransen, K. et al. Believing in “us”: exploring leaders’ capacity to enhance 
+team confidence and performance by building a sense of shared social 
+identity. J. Exp. Psychol. Appl. 21, 89–100 (2015).
+	202.	 Haslam, S. A. & Reicher, S. Stressing the group: social identity and the 
+unfolding dynamics of responses to stress. J. Appl. Psychol. 91, 1037–1052 
+(2006). Stressing the group.
+	203.	 Haslam, S. A. & Platow, M. J. The link between leadership and followership: 
+how affirming social identity translates vision into action. Pers. Soc. Psychol. 
+Bull. 27, 1469–1479 (2001).
+	204.	 Hogg, M. A. A social identity theory of leadership. Pers. Soc. Psychol. Rev. 
+5, 184–200 (2001).
+	205.	 Nielsen, J.S. The Myth Of Leadership: Creating Leaderless Organizations. 
+(Davies-Black Publishing, 2004).
+	206.	 Mooijman, M., van Dijk, W. W., van Dijk, E. & Ellemers, N. On 
+sanction-goal justifications: How and why deterrence justifications 
+undermine rule compliance. J. Pers. Soc. Psychol. 112, 577–588 (2017).
+	207.	 Tyler, T.R. Why People Cooperate: The Role of Social Motivations. (Princeton 
+Univ. Press, 2011).
+	208.	 Ellemers, N., Spears, R. & Doosje, B. Self and social identity. Annu. Rev. 
+Psychol. 53, 161–186 (2002).
+	209.	 Schnall, S., Roper, J. & Fessler, D. M. T. Elevation leads to altruistic 
+behavior. Psychol. Sci. 21, 315–320 (2010).
+	210.	 Schnall, S. & Roper, J. Elevation puts moral values into action. Soc. Psychol. 
+Personal. Sci. 3, 373–378 (2012).
+	211.	 Yang, X.-F., Pavarini, G., Schnall, S. & Immordino-Yang, M. H. Looking up 
+to virtue: averting gaze facilitates moral construals via posteromedial 
+activations. Soc. Cogn. Affect. Neurosci. 13, 1131–1139 (2018).
+	212.	 de Zavala, A. G., Cichocka, A., Eidelson, R. & Jayawickreme, N.  
+Collective narcissism and its social consequences. J. Pers. Soc. Psychol. 97, 
+1074–1096 (2009).
+	213.	 Cichocka, A. Understanding defensive and secure in-group positivity: the 
+role of collective narcissism. Eur. Rev. Soc. Psychol. 27, 283–317 (2016).
+	214.	 Cichocka, A. & Cislak, A. Nationalism as collective narcissism. Curr. Opin. 
+Behav. Sci. 34, 69–74 (2020).
+	215.	 Cichocka, A., Marchlewska, M., Golec de Zavala, A. & Olechowski, M. 
+‘They will not control us’: ingroup positivity and belief in intergroup 
+conspiracies. Br. J. Psychol. 107, 556–576 (2016).
+	216.	 Baumeister, R. F. & Leary, M. R. The need to belong: desire for 
+interpersonal attachments as a fundamental human motivation.  
+Psychol. Bull. 117, 497–529 (1995).
+	217.	 Jetten, J., Haslam, C., & Haslam, S. A. (eds.) The Social Cure: Identity, 
+Health and Well-being. (Psychology Press, 2012).
+	218.	 Jetten, J. et al. Advancing the social identity approach to health and 
+well-being: progressing the social cure research agenda. Eur. J. Soc. Psychol. 
+47, 789–802 (2017).
+	219.	 Rimé, B. Emotion elicits the social sharing of emotion: theory and 
+empirical review. Emot. Rev. 1, 60–85 (2009).
+	220.	 Williams, W. C., Morelli, S. A., Ong, D. C. & Zaki, J. Interpersonal emotion 
+regulation: Implications for affiliation, perceived support, relationships, and 
+well-being. J. Pers. Soc. Psychol. 115, 224–254 (2018).
+	221.	 Haslam, C. et al. The New Psychology of Health: Unlocking the Social Cure. 
+(Routledge, 2018).
+	222.	 Hawkley, L. C. & Cacioppo, J. T. Loneliness matters: a theoretical and 
+empirical review of consequences and mechanisms. Ann. Behav. Med. 40, 
+218–227 (2010).
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+470
+
+
+--- PAGE 12 ---
+Perspective
+NaTure Human BehaVIOur
+	223.	 Luo, Y., Hawkley, L. C., Waite, L. J. & Cacioppo, J. T. Loneliness, health,  
+and mortality in old age: a national longitudinal study. Soc. Sci. Med. 74, 
+907–914 (2012).
+	224.	 Cacioppo, J.T. & Patrick, W. Loneliness: Human Nature and the Need for 
+Social Connection. (Norton, 2009).
+	225.	 Doré, B. P., Morris, R. R., Burr, D. A., Picard, R. W. & Ochsner, K. N. 
+Helping others regulate emotion predicts increased regulation of one’s own 
+emotions and decreased symptoms of depression. Pers. Soc. Psychol. Bull. 
+43, 729–739 (2017).
+	226.	 Helliwell, J. F. & Huang, H. Comparing the happiness effects of real and 
+on-line friends. PLoS One 8, e72754 (2013).
+	227.	 Verduyn, P. et al. Passive Facebook usage undermines affective well-being: 
+experimental and longitudinal evidence. J. Exp. Psychol. Gen. 144,  
+480–488 (2015).
+	228.	 Schroeder, J., Kardas, M. & Epley, N. The humanizing voice: speech reveals, 
+and text conceals, a more thoughtful mind in the midst of disagreement. 
+Psychol. Sci. 28, 1745–1762 (2017).
+	229.	 Waytz, A. & Gray, K. Does online technology make us more or less 
+sociable? a preliminary review and call for research. Perspect. Psychol. Sci. 
+13, 473–491 (2018).
+	230.	 Brooks, S. K. et al. The psychological impact of quarantine and how to 
+reduce it: rapid review of the evidence. Lancet 395, 912–920 (2020).
+	231.	 Ellemers, N. & Jetten, J. Pers. Soc. Psychol. Rev. 17, 3–21 (2013). The many 
+ways to be marginal in a group.
+	232.	 Greenaway, K. H., Jetten, J., Ellemers, N. & van Bunderen, L. The dark side 
+of inclusion: undesired acceptance increases aggression. Group Process. 
+Intergroup Relat. 18, 173–189 (2015).
+	233.	 Owen, L. Five ways the coronavirus is hitting women in Asia. BBC News 
+https://www.bbc.com/news/world-asia-51705199 (2020).
+	234.	 Karney, B.R. Socioeconomic status and intimate relationships. Annu. Rev. 
+Psychol. (in the press).
+	235.	 Karney, B.R. & Neff, L.A. Couples and stress: how demands outside a 
+relationship affect intimacy within the relationship. in The Oxford Handbook 
+of Close Relationships (eds. Simpson, J. A. & Campbell, L.) 664–684 (Oxford 
+Univ.Press, 2013).
+	236.	 Cohan, C. L. & Cole, S. W. Life course transitions and natural disaster: 
+marriage, birth, and divorce following Hurricane Hugo. J. Fam. Psychol. 16, 
+14–25 (2002).
+	237.	 Finkel, E.J. The All-or-Nothing Marriage: How the Best Marriages Work. 
+(Dutton, 2017).
+	238.	 Crum, A. J., Jamieson, J. P. & Akinola, M. Optimizing stress: an integrated 
+intervention for regulating stress responses. Emotion 20, 120–125 (2020).
+	239.	 Jamieson, J. P., Crum, A. J., Goyer, J. P., Marotta, M. E. & Akinola, M. 
+Optimizing stress responses with reappraisal and mindset interventions: an 
+integrated model. Anxiety Stress Coping 31, 245–261 (2018).
+	240.	 Dienstbier, R. A. Arousal and physiological toughness: implications for 
+mental and physical health. Psychol. Rev. 96, 84–100 (1989).
+	241.	 Epel, E. S., McEwen, B. S. & Ickovics, J. R. Embodying psychological thriving: 
+physical thriving in response to stress. J. Soc. Issues 54, 301–322 (1998).
+	242.	 Hazeldine, J., Arlt, W. & Lord, J. M. Dehydroepiandrosterone as a regulator 
+of immune cell function. J. Steroid Biochem. Mol. Biol. 120, 127–136 (2010).
+	243.	 Tedeschi, R. G. & Calhoun, L. G. Posttraumatic growth: conceptual 
+foundations and empirical evidence. Psychol. Inq. 15, 1–18 (2004).
+	244.	 Crum, A. J., Akinola, M., Martin, A. & Fath, S. The role of stress mindset in 
+shaping cognitive, emotional, and physiological responses to challenging 
+and threatening stress. Anxiety Stress Coping 30, 379–395 (2017).
+	245.	 Crum, A. J., Salovey, P. & Achor, S. Rethinking stress: the role of  
+mindsets in determining the stress response. J. Pers. Soc. Psychol. 104, 
+716–733 (2013).
+	246.	 Soper, G. A. The lessons of the pandemic. Science 49, 501–506 (1919).
+	247.	 Byrne, S. & Hart, P. S. The boomerang effect a synthesis of findings  
+and a preliminary theoretical framework. Ann. Int. Commun. Assoc. 33, 
+3–37 (2009).
+	248.	 Burgoon, M., Alvaro, E., Grandpre, J. & Voulodakis, M. Revisiting the 
+theory of psychological reactance: Communicating threats to attitudinal 
+freedom. in The Persuasion Handbook: Developments in Theory and Practice 
+(eds. Dillard, J. P. & Pfau, M.) 213–232 (SAGE, 2002).
+	249.	 Garcia, D. & Rimé, B. Collective emotions and social resilience in the 
+digital traces after a terrorist attack. Psychol. Sci. 30, 617–628 (2019).
+	250.	 Brady, W. J., Crockett, M. & Van Bavel, J. J. The MAD model of moral 
+contagion: the role of motivation, attention and design in the spread of 
+moralized content online. Persp. Psychol. Sci. (in the press).
+	251.	 Duncan, G. J., Brooks-Gunn, J. & Klebanov, P. K. Economic deprivation 
+and early childhood development. Child Dev. 65, 296–318 (1994).
+	252.	 Jin, R. L., Shah, C. P. & Svoboda, T. J. The impact of unemployment on 
+health: a review of the evidence. CMAJ 153, 529–540 (1995).
+	253.	 Rimal, R. N. & Lapinski, M. K. Why health communication is important in 
+public health. Bull. World Health Organ. 87, 247–247a (2009).
+Author contributions
+The corresponding authors (J.V.B and R.W.) came up with the idea for the paper, invited 
+authors to collaborate, and wrote and edited the manuscript. All other contributing 
+authors (K.B., P.S.B., V.C., A.C., M.C., M.J.C, A.J.C., K.M.D., J.N.D., J.D., O.D., N.E., 
+E.J.F., J.H.F., M.G., S.H., S.A.H., J.J., S.K., D.M., K.E.N., D.J.P., G.P., E.P., R.E.P., D.G.R., 
+S.D.R., S.S., A.S., L.J.S., S.S.S., C.R.S., N.T., J.A.T., S.V.L., P.A.M.V.L., K.A.W., M.J.A.W., 
+J.Z. and S.R.Z.) wrote and edited the paper and are listed in alphabetical order. We thank 
+J. Rothschild for his help in inserting citations and organizing the list of biographical 
+references.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Correspondence should be addressed to J.J.V.B. or R.W.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+Primary handling editor: Stavroula Kousta.
+© Springer Nature Limited 2020
+Nature Human Behaviour | VOL 4 | May 2020 | 460–471 | www.nature.com/nathumbehav
+471

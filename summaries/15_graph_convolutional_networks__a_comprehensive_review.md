@@ -1,0 +1,7 @@
+ies prediction, which has been widely studied using graph convolutional networks. For instance, GraphConvNet [56] and SchNet [115] are two popular models for predicting molecular properties such as energy, electronic structure, and reactivity.
+
+In biology, graph convolutional networks have been used to study protein-protein interactions, gene regulatory networks, and metabolic pathways. For example, GraphSAGE [37] has been applied to predict protein function from protein-protein interaction data. In addition, GCN has been used to analyze gene expression data and identify disease-related genes.
+
+In materials science, graph convolutional networks have been used to predict the properties of materials such as electronic band structure, mechanical strength, and thermal conductivity. For example, CrystalGraph [116] is a graph convolutional network model that can predict the electronic band structure of crystals from their atomic structures.
+
+Overall, graph convolutional networks have shown great potential in various scientific fields by leveraging the intrinsic graph structure of complex systems. They provide a powerful tool for analyzing and understanding the relationships between different components in these systems, leading to insights and predictions that would be difficult or impossible to obtain using traditional methods.

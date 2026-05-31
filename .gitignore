@@ -3,7 +3,3 @@ venv/
 __pycache__/
 *.pyc
 
-data/
-papers/
-texts/
-summaries/
